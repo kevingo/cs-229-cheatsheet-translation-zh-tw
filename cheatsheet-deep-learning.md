@@ -1,43 +1,43 @@
 1. **Deep Learning cheatsheet**
 
 &#10230;
-
+深度學習參考手冊
 <br>
 
 2. **Neural Networks**
 
 &#10230;
-
+神經網路
 <br>
 
 3. **Neural networks are a class of models that are built with layers. Commonly used types of neural networks include convolutional and recurrent neural networks.**
 
 &#10230;
-
+神經網路是一種透過 layer 來建構的模型。經常被使用的神經網路模型包括了卷積神經網路 (CNN) 和遞迴式神經網路 (RNN)。
 <br>
 
 4. **Architecture ― The vocabulary around neural networks architectures is described in the figure below:**
 
 &#10230;
-
+架構 - 神經網路架構所需要用到的詞彙描述如下：
 <br>
 
 5. **[Input layer, hidden layer, output layer]**
 
 &#10230;
-
+[輸入層、隱藏層、輸出層]
 <br>
 
 6. **By noting i the ith layer of the network and j the jth hidden unit of the layer, we have:**
 
 &#10230;
-
+我們使用 i 來代表網路的第 i 層、j 來代表某一層中第 j 個隱藏神經元的話，我們可以得到下面得等式：
 <br>
 
 7. **where we note w, b, z the weight, bias and output respectively.**
 
 &#10230;
-
+其中，我們分別使用 w 來代表權重、b 代表偏差、z 代表輸出。
 <br>
 
 8. **Activation function ― Activation functions are used at the end of a hidden unit to introduce non-linear complexities to the model. Here are the most common ones:**
