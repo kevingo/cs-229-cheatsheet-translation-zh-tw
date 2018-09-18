@@ -43,7 +43,7 @@
 8. **Activation function ― Activation functions are used at the end of a hidden unit to introduce non-linear complexities to the model. Here are the most common ones:**
 
 &#10230;
-
+激勵函數 - 激勵函數是為了在神經元中帶入非線性的轉換而設計。底下是一些常見函數：
 <br>
 
 9. **[Sigmoid, Tanh, ReLU, Leaky ReLU]**
