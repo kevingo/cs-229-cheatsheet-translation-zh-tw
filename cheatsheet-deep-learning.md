@@ -49,31 +49,31 @@
 9. **[Sigmoid, Tanh, ReLU, Leaky ReLU]**
 
 &#10230;
-
+[Sigmoid, Tanh, ReLU, Leaky ReLU]
 <br>
 
 10. **Cross-entropy loss ― In the context of neural networks, the cross-entropy loss L(z,y) is commonly used and is defined as follows:**
 
 &#10230;
-
+交叉熵損失函式
 <br>
 
 11. **Learning rate ― The learning rate, often noted α or sometimes η, indicates at which pace the weights get updated. This can be fixed or adaptively changed. The current most popular method is called Adam, which is a method that adapts the learning rate.**
 
 &#10230;
-
+學習速率 - 學習速率通常用 α 或 η 來表示，目的是用來控制權重更新的速度。學習速度可以是一個固定值，或是隨著訓練的過程改變。現在最熱門的方法叫做 Adam，是一種隨著訓練過程改變的學習速度。
 <br>
 
 12. **Backpropagation ― Backpropagation is a method to update the weights in the neural network by taking into account the actual output and the desired output. The derivative with respect to weight w is computed using chain rule and is of the following form:**
 
 &#10230;
-
+反向傳播演算法 - 反向傳播演算法是一種在神經網路中用來更新權重的方法，更新的基準是根據神經網路的實際輸出值和期望輸出值之間的關係。權重的導數是根據連鎖律 (chain rule) 來計算，通常會表示成下面的形式：
 <br>
 
 13. **As a result, the weight is updated as follows:**
 
 &#10230;
-
+因此，權重會透過以下的方式來更新：
 <br>
 
 14. **Updating weights ― In a neural network, weights are updated as follows:**
