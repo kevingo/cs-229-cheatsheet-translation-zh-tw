@@ -79,31 +79,31 @@
 14. **Updating weights ― In a neural network, weights are updated as follows:**
 
 &#10230;
-
+更新權重 - 在神經網路中，權重的更新會透過以下步驟進行：
 <br>
 
 15. **Step 1: Take a batch of training data.**
 
 &#10230;
-
+步驟一：取出一個批次 (batch) 的資料
 <br>
 
 16. **Step 2: Perform forward propagation to obtain the corresponding loss.**
 
 &#10230;
-
+步驟二：執行前向傳播演算法 (forward propagation) 來得到對應的損失值
 <br>
 
 17. **Step 3: Backpropagate the loss to get the gradients.**
 
 &#10230;
-
+步驟三：將損失值透過反向傳播演算法來得到梯度
 <br>
 
 18. **Step 4: Use the gradients to update the weights of the network.**
 
 &#10230;
-
+步驟四：使用梯度來更新網路的權重
 <br>
 
 19. **Dropout ― Dropout is a technique meant at preventing overfitting the training data by dropping out units in a neural network. In practice, neurons are either dropped with probability p or kept with probability 1−p**
