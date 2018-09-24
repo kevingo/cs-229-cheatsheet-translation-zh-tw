@@ -139,31 +139,31 @@ Dropout - Dropout 是一種透過丟棄一些神經元，來避免過擬和的�
 24. **Recurrent Neural Networks**
 
 &#10230;
-
+遞歸神經網路 (RNN)
 <br>
 
 25. **Types of gates ― Here are the different types of gates that we encounter in a typical recurrent neural network:**
 
 &#10230;
-
+閘的種類 - 在傳統的遞歸神經網路中，你會遇到幾種閘：
 <br>
 
 26. **[Input gate, forget gate, gate, output gate]**
 
 &#10230;
-
+輸入閘、遺忘閥、閘、輸出閘
 <br>
 
 27. **[Write to cell or not?, Erase a cell or not?, How much to write to cell?, How much to reveal cell?]**
 
 &#10230;
-
+要不要將資料寫入到記憶區塊中？要不要將存在在記憶區塊中的資料清除？要寫多少資料到記憶區塊？要不要將資料從記憶區塊中取出？
 <br>
 
 28. **LSTM ― A long short-term memory (LSTM) network is a type of RNN model that avoids the vanishing gradient problem by adding 'forget' gates.**
 
 &#10230;
-
+長短期記憶模型 - 長短期記憶模型是一種遞歸神經網路，藉由導入遺忘閘的設計來避免梯度消失的問題
 <br>
 
 29. **Reinforcement Learning and Control**
