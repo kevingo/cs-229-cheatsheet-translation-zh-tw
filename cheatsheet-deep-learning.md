@@ -109,31 +109,31 @@
 19. **Dropout ― Dropout is a technique meant at preventing overfitting the training data by dropping out units in a neural network. In practice, neurons are either dropped with probability p or kept with probability 1−p**
 
 &#10230;
-
+Dropout - Dropout 是一種透過丟棄一些神經元，來避免過擬和的技巧。在實務上，神經元會透過機率值的設定來決定要丟棄或保留
 <br>
 
 20. **Convolutional Neural Networks**
 
 &#10230;
-
+卷積神經網絡
 <br>
 
 21. **Convolutional layer requirement ― By noting W the input volume size, F the size of the convolutional layer neurons, P the amount of zero padding, then the number of neurons N that fit in a given volume is such that:**
 
 &#10230;
-
+卷積層的需求 - 我們使用 W 來表示輸入的尺寸、F 代表卷積層的 filter 尺寸、P 代表使用的 pad 數量，S 代表 stride 的數量，則輸出的尺寸可以透過以下的公式表示：
 <br>
 
 22. **Batch normalization ― It is a step of hyperparameter γ,β that normalizes the batch {xi}. By noting μB,σ2B the mean and variance of that we want to correct to the batch, it is done as follows:**
 
 &#10230;
-
+批次正規化 (Batch normalization) - 它是一個藉由 γ,β 兩個超參數來正規化每個批次 {xi} 的過程。每一次正規化的過程，我們使用 μB,σ2B 分別代表平均數和變異數。請參考以下公式：
 <br>
 
 23. **It is usually done after a fully connected/convolutional layer and before a non-linearity layer and aims at allowing higher learning rates and reducing the strong dependence on initialization.**
 
 &#10230;
-
+批次正規化的動作通常在全連接層/卷積層之後、在非線性層之前進行。目的在於容許更高的學習速率，並且減少對於初始化資料的依賴
 <br>
 
 24. **Recurrent Neural Networks**
