@@ -169,19 +169,19 @@ Dropout - Dropout 是一種透過丟棄一些神經元，來避免過擬和的�
 29. **Reinforcement Learning and Control**
 
 &#10230;
-
+強化學習及控制
 <br>
 
 30. **The goal of reinforcement learning is for an agent to learn how to evolve in an environment.**
 
 &#10230;
-
+強化學習的目標就是為了讓代理 (agent) 能夠學習在環境中進化
 <br>
 
 31. **Definitions**
 
 &#10230;
-
+定義
 <br>
 
 32. **Markov decision processes ― A Markov decision process (MDP) is a 5-tuple (S,A,{Psa},γ,R) where:**
