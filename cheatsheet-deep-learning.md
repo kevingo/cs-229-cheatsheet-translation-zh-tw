@@ -205,87 +205,88 @@ A 是一組行為的集合
 35. **{Psa} are the state transition probabilities for s∈S and a∈A**
 
 &#10230;
-
+{Psa} 指的是，當 s∈S、a∈A 時，狀態轉移的機率
 <br>
 
 36. **γ∈[0,1[ is the discount factor**
 
 &#10230;
-
+γ∈[0,1[ 是衰減係數
 <br>
 
 37. **R:S×A⟶R or R:S⟶R is the reward function that the algorithm wants to maximize**
 
 &#10230;
-
+R:S×A⟶R 或 R:S⟶R 指的是獎勵函數，也就是演算法想要去最大化的目標函數
 <br>
 
 38. **Policy ― A policy π is a function π:S⟶A that maps states to actions.**
 
 &#10230;
-
+策略 - 一個策略 π 指的是一個函數 π:S⟶A，這個函數會將狀態映射到行為
 <br>
 
 39. **Remark: we say that we execute a given policy π if given a state a we take the action a=π(s).**
 
 &#10230;
-
+注意：我們會說，我們給定一個策略 π，當我們給定一個狀態 s 我們會採取一個行動 a=π(s)
 <br>
 
 40. **Value function ― For a given policy π and a given state s, we define the value function Vπ as follows:**
 
 &#10230;
-
+價值函數 - 給定一個策略 π 和狀態 s，我們定義價值函數 Vπ 為：
 <br>
 
 41. **Bellman equation ― The optimal Bellman equations characterizes the value function Vπ∗ of the optimal policy π∗:**
 
 &#10230;
-
+貝爾曼方程 - 最佳的貝爾曼方程是將價值函數 Vπ∗ 和策略 π∗ 表示為：
 <br>
 
 42. **Remark: we note that the optimal policy π∗ for a given state s is such that:**
 
 &#10230;
-
+注意：對於給定一個狀態 s，最佳的策略 π∗ 是：
 <br>
 
 43. **Value iteration algorithm ― The value iteration algorithm is in two steps:**
 
 &#10230;
-
+價值迭代演算法 - 價值迭代演算法包含兩個步驟：
 <br>
 
 44. **1) We initialize the value:**
 
 &#10230;
-
+1) 針對價值初始化：
 <br>
 
 45. **2) We iterate the value based on the values before:**
 
 &#10230;
-
+根據之前的值，迭代此價值的值：
 <br>
 
 46. **Maximum likelihood estimate ― The maximum likelihood estimates for the state transition probabilities are as follows:**
 
 &#10230;
-
+最大概似估計 - 針對狀態轉移機率的最大概似估計為：
 <br>
 
 47. **times took action a in state s and got to s′**
 
 &#10230;
-
+從狀態 s 到 s′ 所採取行為的次數
 <br>
 
 48. **times took action a in state s**
 
 &#10230;
-
+從狀態 s 所採取行為的次數
 <br>
 
 49. **Q-learning ― Q-learning is a model-free estimation of Q, which is done as follows:**
 
 &#10230;
+Q-learning 演算法 - Q-learning 演算法是針對 Q 的一個 model-free 的估計，如下：
