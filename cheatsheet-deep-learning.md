@@ -187,19 +187,19 @@ Dropout - Dropout 是一種透過丟棄一些神經元，來避免過擬和的�
 32. **Markov decision processes ― A Markov decision process (MDP) is a 5-tuple (S,A,{Psa},γ,R) where:**
 
 &#10230;
-
+馬可夫決策過程 - 一個馬可夫決策過程 (MDP) 包含了五個元素：
 <br>
 
 33. **S is the set of states**
 
 &#10230;
-
+S 是一組狀態的集合
 <br>
 
 34. **A is the set of actions**
 
 &#10230;
-
+A 是一組行為的集合
 <br>
 
 35. **{Psa} are the state transition probabilities for s∈S and a∈A**
