@@ -1,37 +1,37 @@
 1. **Supervised Learning cheatsheet**
 
 &#10230;
-
+監督式學習參考手冊
 <br>
 
 2. **Introduction to Supervised Learning**
 
 &#10230;
-
+監督式學習介紹
 <br>
 
 3. **Given a set of data points {x(1),...,x(m)} associated to a set of outcomes {y(1),...,y(m)}, we want to build a classifier that learns how to predict y from x.**
 
 &#10230;
-
+給定一組資料點 {x(1),...,x(m)}，以及對應的一組輸出 {y(1),...,y(m)}，我們希望建立一個分類器，用來學習如何從 x 來預測 y
 <br>
 
 4. **Type of prediction ― The different types of predictive models are summed up in the table below:**
 
 &#10230;
-
+預測的種類 - 根據預測的種類不同，我們將預測模型分為底下幾種：
 <br>
 
 5. **[Regression, Classifier, Outcome, Examples]**
 
 &#10230;
-
+[迴歸, 分類器, 結果, 範例]
 <br>
 
 6. **[Continuous, Class, Linear regression, Logistic regression, SVM, Naive Bayes]**
 
 &#10230;
-
+[連續, 類別, 線性迴歸, 邏輯迴歸, 支援向量機 (SVM) , 單純貝式分類器]
 <br>
 
 7. **Type of model ― The different models are summed up in the table below:**
