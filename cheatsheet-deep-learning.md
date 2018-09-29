@@ -290,3 +290,32 @@ R:S×A⟶R 或 R:S⟶R 指的是獎勵函數，也就是演算法想要去最大
 
 &#10230;
 Q-learning 演算法 - Q-learning 演算法是針對 Q 的一個 model-free 的估計，如下：
+
+50. **View PDF version on GitHub**
+
+&#10230;
+前往 GitHub 閱讀 PDF 版本
+<br>
+
+51. **[Neural Networks, Architecture, Activation function, Backpropagation, Dropout]**
+
+&#10230;
+[神經網路, 架構, 激勵函數, 反向傳播演算法, Dropout]
+<br>
+
+52. **[Convolutional Neural Networks, Convolutional layer, Batch normalization]**
+
+&#10230;
+[卷積神經網絡, 卷積層, 批次正規化]
+<br>
+
+53. **[Recurrent Neural Networks, Gates, LSTM]**
+
+&#10230;
+[遞歸神經網路 (RNN), 閘, 長短期記憶模型]
+<br>
+
+54. **[Reinforcement learning, Markov decision processes, Value/policy iteration, Approximate dynamic programming, Policy search]**
+
+&#10230;
+[強化學習, 馬可夫決策過程, 價值/策略迭代, 近似動態規劃, 策略搜尋]
