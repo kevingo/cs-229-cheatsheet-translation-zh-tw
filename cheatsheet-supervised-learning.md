@@ -37,13 +37,13 @@
 7. **Type of model ― The different models are summed up in the table below:**
 
 &#10230;
-
+模型種類 - 不同種類的模型歸納如下表：
 <br>
 
 8. **[Discriminative model, Generative model, Goal, What's learned, Illustration, Examples]**
 
 &#10230;
-
+[判別模型, 生成模型, 目標, 學到什麼, 示意圖, 範例]
 <br>
 
 9. **[Directly estimate P(y|x), Estimate P(x|y) to then deduce P(y|x), Decision boundary,  	Probability distributions of the data, Regressions, SVMs, GDA, Naive Bayes]**
