@@ -49,25 +49,26 @@
 9. **[Directly estimate P(y|x), Estimate P(x|y) to then deduce P(y|x), Decision boundary,  	Probability distributions of the data, Regressions, SVMs, GDA, Naive Bayes]**
 
 &#10230;
-
+[直接估計 P(y|x), 先估計 P(x|y)，然後推論出 P(y|x), 決策分界線, 資料的機率分佈, 迴歸, 支援向量機 (SVM), 高斯判別分析 (GDA), 單純貝氏 (Naive Bayes)]
 <br>
 
 10. **Notations and general concepts**
 
 &#10230;
-
+符號及一般概念
 <br>
 
 11. **Hypothesis ― The hypothesis is noted hθ and is the model that we choose. For a given input data x(i) the model prediction output is hθ(x(i)).**
 
 &#10230;
-
+假設 - 我們使用 hθ 來代表所選擇的模型，對於給定的輸入資料 x(i)，模型預測的輸出是 hθ(x(i))
 <br>
 
 12. **Loss function ― A loss function is a function L:(z,y)∈R×Y⟼L(z,y)∈R that takes as inputs the predicted value z corresponding to the real data value y and outputs how different they are. The common loss functions are summed up in the table below:**
 
 &#10230;
-
+損失函數 - 損失函數是一個函數 L:(z,y)∈R×Y⟼L(z,y)∈R，
+目的在於計算預測值 z 和實際值 y 之間的差距。底下是一些常見的損失函數：
 <br>
 
 13. **[Least squared error, Logistic loss, Hinge loss, Cross-entropy]**
