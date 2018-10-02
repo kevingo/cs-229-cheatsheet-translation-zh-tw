@@ -74,37 +74,37 @@
 13. **[Least squared error, Logistic loss, Hinge loss, Cross-entropy]**
 
 &#10230;
-
+[最小平方法, Logistic 損失函數, Hinge 損失函數, 交叉熵]
 <br>
 
 14. **[Linear regression, Logistic regression, SVM, Neural Network]**
 
 &#10230;
-
+[線性迴歸, 邏輯迴歸, 支援向量機 (SVM), 神經網路]
 <br>
 
 15. **Cost function ― The cost function J is commonly used to assess the performance of a model, and is defined with the loss function L as follows:**
 
 &#10230;
-
+代價函數 - 代價函數 J 通常用來評估一個模型的表現，它可以透過損失函數 L 來定義：
 <br>
 
 16. **Gradient descent ― By noting α∈R the learning rate, the update rule for gradient descent is expressed with the learning rate and the cost function J as follows:**
 
 &#10230;
-
+梯度下降 - 使用 α∈R 表示學習速率，我們透過學習速率和代價函數來使用梯度下降的方法找出網路參數更新的方法可以表示為：
 <br>
 
 17. **Remark: Stochastic gradient descent (SGD) is updating the parameter based on each training example, and batch gradient descent is on a batch of training examples.**
 
 &#10230;
-
+注意：隨機梯度下降法 (SGD) 使用每一個訓練資料來更新參數。而批次梯度下降法則是透過一個批次的訓練資料來更新參數。
 <br>
 
 18. **Likelihood ― The likelihood of a model L(θ) given parameters θ is used to find the optimal parameters θ through maximizing the likelihood. In practice, we use the log-likelihood ℓ(θ)=log(L(θ)) which is easier to optimize. We have:**
 
 &#10230;
-
+概似估計 - 在給定參數 θ 的條件下，一個模型 L(θ) 的概似估計的目的是透過最大概似估計法來找到最佳的參數。實務上，我們會使用對數概似估計函數 (log-likelihood) ℓ(θ)=log(L(θ))，會比較容易最佳化。如下：
 <br>
 
 19. **Newton's algorithm ― The Newton's algorithm is a numerical method that finds θ such that ℓ′(θ)=0. Its update rule is as follows:**
