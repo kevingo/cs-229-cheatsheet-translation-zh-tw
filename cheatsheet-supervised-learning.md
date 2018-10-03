@@ -188,7 +188,7 @@ Sigmoid 函數 - Sigmoid 函數 g，也可以稱為邏輯函數可以定義如�
 32. **Softmax regression ― A softmax regression, also called a multiclass logistic regression, is used to generalize logistic regression when there are more than 2 outcome classes. By convention, we set θK=0, which makes the Bernoulli parameter ϕi of each class i equal to:**
 
 &#10230;
-
+Softmax 迴歸 - Softmax 迴歸又稱做多分類邏輯迴歸，目的是用在超過兩個以上的分類時的迴歸使用。按照慣例，我們設定 θK=0，讓每一個類別的 Bernoulli 參數 ϕi 等同於：
 <br>
 
 33. **Generalized Linear Models**
