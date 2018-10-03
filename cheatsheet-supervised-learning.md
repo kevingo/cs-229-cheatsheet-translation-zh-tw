@@ -164,25 +164,25 @@
 28. **Classification and logistic regression**
 
 &#10230;
-
+分類與邏輯迴歸
 <br>
 
 29. **Sigmoid function ― The sigmoid function g, also known as the logistic function, is defined as follows:**
 
 &#10230;
-
+Sigmoid 函數 - Sigmoid 函數 g，也可以稱為邏輯函數可以定義如下：
 <br>
 
 30. **Logistic regression ― We assume here that y|x;θ∼Bernoulli(ϕ). We have the following form:**
 
 &#10230;
-
+邏輯迴歸 - 我們假設 y|x;θ∼Bernoulli(ϕ)，請參考以下：
 <br>
 
 31. **Remark: there is no closed form solution for the case of logistic regressions.**
 
 &#10230;
-
+注意：對於這種情況的邏輯迴歸，並沒有一個封閉解
 <br>
 
 32. **Softmax regression ― A softmax regression, also called a multiclass logistic regression, is used to generalize logistic regression when there are more than 2 outcome classes. By convention, we set θK=0, which makes the Bernoulli parameter ϕi of each class i equal to:**
