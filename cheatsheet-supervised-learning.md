@@ -110,55 +110,55 @@
 19. **Newton's algorithm ― The Newton's algorithm is a numerical method that finds θ such that ℓ′(θ)=0. Its update rule is as follows:**
 
 &#10230;
-
+牛頓演算法 - 牛頓演算法是一個數值方法，目的在於找到一個 θ，讓 ℓ′(θ)=0。其更新的規則為：
 <br>
 
 20. **Remark: the multidimensional generalization, also known as the Newton-Raphson method, has the following update rule:**
 
 &#10230;
-
+注意：多維度正規化的方法，或又被稱之為牛頓-拉弗森 (Newton-Raphson) 演算法，是透過以下的規則更新：
 <br>
 
 21. **Linear models**
 
 &#10230;
-
+線性模型
 <br>
 
 22. **Linear regression**
 
 &#10230;
-
+線性迴歸
 <br>
 
 23. **We assume here that y|x;θ∼N(μ,σ2)**
 
 &#10230;
-
+我們在這裡進行一個假設
 <br>
 
 24. **Normal equations ― By noting X the matrix design, the value of θ that minimizes the cost function is a closed-form solution such that:**
 
 &#10230;
-
+正規方程法 - 我們使用 X 代表矩陣，讓代價函數最小的 θ 值有一個封閉解，如下：
 <br>
 
 25. **LMS algorithm ― By noting α the learning rate, the update rule of the Least Mean Squares (LMS) algorithm for a training set of m data points, which is also known as the Widrow-Hoff learning rule, is as follows:**
 
 &#10230;
-
+最小均方演算法 (LMS) - 我們使用 α 表示學習速率，針對 m 個訓練資料，透過最小均方演算法的更新規則，或是叫做 Widrow-Hoff 學習法如下：
 <br>
 
 26. **Remark: the update rule is a particular case of the gradient ascent.**
 
 &#10230;
-
+注意：這個更新的規則是梯度上升的一種特例
 <br>
 
 27. **LWR ― Locally Weighted Regression, also known as LWR, is a variant of linear regression that weights each training example in its cost function by w(i)(x), which is defined with parameter τ∈R as:**
 
 &#10230;
-
+局部加權迴歸 (LWR) - 局部加權迴歸，又稱為 LWR，
 <br>
 
 28. **Classification and logistic regression**
