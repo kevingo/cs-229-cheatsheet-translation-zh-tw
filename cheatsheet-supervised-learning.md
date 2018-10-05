@@ -230,25 +230,25 @@ Softmax 迴歸 - Softmax 迴歸又稱做多分類邏輯迴歸，目的是用在�
 39. **Remark: ordinary least squares and logistic regression are special cases of generalized linear models.**
 
 &#10230;
-
+注意：最小平方法和邏輯迴歸是廣義線性模型的一種特例
 <br>
 
 40. **Support Vector Machines**
 
 &#10230;
-
+支援向量機
 <br>
 
 41. **The goal of support vector machines is to find the line that maximizes the minimum distance to the line.**
 
 &#10230;
-
+支援向量機的目的在於找到一條決策邊界和資料樣本之間最大化最小距離的線
 <br>
 
 42. **Optimal margin classifier ― The optimal margin classifier h is such that:**
 
 &#10230;
-
+最佳的邊界分類器 - 最佳的邊界分類器可以表示為：
 <br>
 
 43. **where (w,b)∈Rn×R is the solution of the following optimization problem:**
