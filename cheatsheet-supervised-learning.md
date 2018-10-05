@@ -194,13 +194,13 @@ Softmax 迴歸 - Softmax 迴歸又稱做多分類邏輯迴歸，目的是用在�
 33. **Generalized Linear Models**
 
 &#10230;
-
+廣義線性模型
 <br>
 
 34. **Exponential family ― A class of distributions is said to be in the exponential family if it can be written in terms of a natural parameter, also called the canonical parameter or link function, η, a sufficient statistic T(y) and a log-partition function a(η) as follows:**
 
 &#10230;
-
+指數族分佈 - 一個分佈如果可以透過自然參數 (或稱之為正準參數或連結函數) η、充分統計量 T(y) 和對數區分函數 (log-partition function) a(η) 來表示時，我們就稱這個分佈是屬於指數族分佈。該分佈可以表示如下：
 <br>
 
 35. **Remark: we will often have T(y)=y. Also, exp(−a(η)) can be seen as a normalization parameter that will make sure that the probabilities sum to one.**
