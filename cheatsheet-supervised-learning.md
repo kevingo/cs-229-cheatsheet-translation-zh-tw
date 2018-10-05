@@ -206,25 +206,25 @@ Softmax 迴歸 - Softmax 迴歸又稱做多分類邏輯迴歸，目的是用在�
 35. **Remark: we will often have T(y)=y. Also, exp(−a(η)) can be seen as a normalization parameter that will make sure that the probabilities sum to one.**
 
 &#10230;
-
+注意：我們經常讓 T(y)=y，同時，exp(−a(η)) 可以看成是一個正規化的參數，目的在於讓機率總和為一。
 <br>
 
 36. **Here are the most common exponential distributions summed up in the following table:**
 
 &#10230;
-
+底下是最常見的指數分佈：
 <br>
 
 37. **[Distribution, Bernoulli, Gaussian, Poisson, Geometric]**
 
 &#10230;
-
+[分佈, 白努利 (Bernoulli), 高斯 (Gaussian), 卜瓦松 (Poisson), 幾何 (Geometric)]
 <br>
 
 38. **Assumptions of GLMs ― Generalized Linear Models (GLM) aim at predicting a random variable y as a function fo x∈Rn+1 and rely on the following 3 assumptions:**
 
 &#10230;
-
+廣義線性模型的假設 - 廣義線性模型 (GLM) 的目的在於，給定 x∈Rn+1，要預測隨機變數 y，同時它依賴底下三個假設：
 <br>
 
 39. **Remark: ordinary least squares and logistic regression are special cases of generalized linear models.**
