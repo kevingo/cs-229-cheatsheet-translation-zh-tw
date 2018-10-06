@@ -254,25 +254,25 @@ Softmax 迴歸 - Softmax 迴歸又稱做多分類邏輯迴歸，目的是用在�
 43. **where (w,b)∈Rn×R is the solution of the following optimization problem:**
 
 &#10230;
-
+其中，(w,b)∈Rn×R 是底下最佳化問題的答案：
 <br>
 
 44. **such that**
 
 &#10230;
-
+使得
 <br>
 
 45. **support vectors**
 
 &#10230;
-
+支援向量
 <br>
 
 46. **Remark: the line is defined as wTx−b=0.**
 
 &#10230;
-
+注意：該條直線定義為 wTx−b=0
 <br>
 
 47. **Hinge loss ― The hinge loss is used in the setting of SVMs and is defined as follows:**
