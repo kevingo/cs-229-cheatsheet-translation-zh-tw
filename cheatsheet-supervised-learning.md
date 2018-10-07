@@ -278,31 +278,31 @@ Softmax 迴歸 - Softmax 迴歸又稱做多分類邏輯迴歸，目的是用在�
 47. **Hinge loss ― The hinge loss is used in the setting of SVMs and is defined as follows:**
 
 &#10230;
-
+Hinge 損失函數 - Hinge 損失函數用在支援向量機上，定義如下：
 <br>
 
 48. **Kernel ― Given a feature mapping ϕ, we define the kernel K to be defined as:**
 
 &#10230;
-
+核(函數) - 給定特徵轉換 ϕ，我們定義核(函數) K 為：
 <br>
 
 49. **In practice, the kernel K defined by K(x,z)=exp(−||x−z||22σ2) is called the Gaussian kernel and is commonly used.**
 
 &#10230;
-
+實務上，K(x,z)=exp(−||x−z||22σ2) 定義的核(函數) K，一般稱作高斯核(函數)。這種核(函數)經常被使用
 <br>
 
 50. **[Non-linear separability, Use of a kernel mapping, Decision boundary in the original space]**
 
 &#10230;
-
+[非線性可分, 使用核(函數)進行映射, 原始空間中的決策邊界]
 <br>
 
 51. **Remark: we say that we use the "kernel trick" to compute the cost function using the kernel because we actually don't need to know the explicit mapping ϕ, which is often very complicated. Instead, only the values K(x,z) are needed.**
 
 &#10230;
-
+注意：我們使用 "核(函數)技巧" 來計算代價函數時，不需要真正的知道映射函數 ϕ，這個函數非常複雜。相反的，我們只需要知道 K(x,z) 的值即可。
 <br>
 
 52. **Lagrangian ― We define the Lagrangian L(w,b) as follows:**
