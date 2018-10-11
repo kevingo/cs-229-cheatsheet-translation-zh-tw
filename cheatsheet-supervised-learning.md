@@ -362,43 +362,43 @@ Lagrangian - 我們將 Lagrangian L(w,b) 定義如下：
 61. **Solutions ― Maximizing the log-likelihood gives the following solutions, with k∈{0,1},l∈[[1,L]]**
 
 &#10230;
-
+解決方法 - 最大化對數概似估計來給出以下解答，k∈{0,1},l∈[[1,L]]
 <br>
 
 62. **Remark: Naive Bayes is widely used for text classification and spam detection.**
 
 &#10230;
-
+注意：單純貝氏廣泛應用在文字分類和垃圾信件偵測上
 <br>
 
 63. **Tree-based and ensemble methods**
 
 &#10230;
-
+基於樹狀結構的學習和整體學習
 <br>
 
 64. **These methods can be used for both regression and classification problems.**
 
 &#10230;
-
+這些方法可以應用在迴歸或分類問題上
 <br>
 
 65. **CART ― Classification and Regression Trees (CART), commonly known as decision trees, can be represented as binary trees. They have the advantage to be very interpretable.**
 
 &#10230;
-
+CART - 分類與迴歸樹 (CART)，通常稱之為決策數，可以被表示為二元樹。它的優點是具有可解釋性。
 <br>
 
 66. **Random forest ― It is a tree-based technique that uses a high number of decision trees built out of randomly selected sets of features. Contrary to the simple decision tree, it is highly uninterpretable but its generally good performance makes it a popular algorithm.**
 
 &#10230;
-
+隨機森林 - 這是一個基於樹狀結構的方法，它使用大量經由隨機挑選的特徵所建構的決策樹。與單純的決策樹不同，它通常具有高度不可解釋性，但它的效能通常很好，所以是一個相當流行的演算法。
 <br>
 
 67. **Remark: random forests are a type of ensemble methods.**
 
 &#10230;
-
+注意：隨機森林是一種整體學習方法
 <br>
 
 68. **Boosting ― The idea of boosting methods is to combine several weak learners to form a stronger one. The main ones are summed up in the table below:**
