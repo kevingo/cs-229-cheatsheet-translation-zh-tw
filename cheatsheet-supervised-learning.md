@@ -404,49 +404,49 @@ CART - 分類與迴歸樹 (CART)，通常稱之為決策數，可以被表示為
 68. **Boosting ― The idea of boosting methods is to combine several weak learners to form a stronger one. The main ones are summed up in the table below:**
 
 &#10230;
-
+增強學習 (Boosting) - 增強學習方法的概念是結合數個弱學習模型來變成強學習模型。主要的分類如下：
 <br>
 
 69. **[Adaptive boosting, Gradient boosting]**
 
 &#10230;
-
+[自適應增強, 梯度增強]
 <br>
 
 70. **High weights are put on errors to improve at the next boosting step**
 
 &#10230;
-
+在下一輪的提升步驟中，錯誤的部分會被賦予較高的權重
 <br>
 
 71. **Weak learners trained on remaining errors**
 
 &#10230;
-
+弱學習器會負責訓練剩下的錯誤
 <br>
 
 72. **Other non-parametric approaches**
 
 &#10230;
-
+其他非參數方法
 <br>
 
 73. **k-nearest neighbors ― The k-nearest neighbors algorithm, commonly known as k-NN, is a non-parametric approach where the response of a data point is determined by the nature of its k neighbors from the training set. It can be used in both classification and regression settings.**
 
 &#10230;
-
+k-最近鄰 - k-最近鄰演算法，又稱之為 k-NN，是一個非參數的方法，其中資料點的決定是透過訓練集中最近的 k 個鄰居而決定。它可以用在分類和迴歸問題上。
 <br>
 
 74. **Remark: The higher the parameter k, the higher the bias, and the lower the parameter k, the higher the variance.**
 
 &#10230;
-
+注意：參數 k 的值越大，偏差越大。k 的值越小，變異越大。
 <br>
 
 75. **Learning Theory**
 
 &#10230;
-
+學習理論
 <br>
 
 76. **Union bound ― Let A1,...,Ak be k events. We have:**
