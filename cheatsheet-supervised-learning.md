@@ -452,19 +452,19 @@ k-最近鄰 - k-最近鄰演算法，又稱之為 k-NN，是一個非參數的�
 76. **Union bound ― Let A1,...,Ak be k events. We have:**
 
 &#10230;
-
+聯集上界 - 令 A1,...,Ak 為 k 個事件，產生一下定義：
 <br>
 
 77. **Hoeffding inequality ― Let Z1,..,Zm be m iid variables drawn from a Bernoulli distribution of parameter ϕ. Let ˆϕ be their sample mean and γ>0 fixed. We have:**
 
 &#10230;
-
+霍夫丁不等式 - 令 Z1,..,Zm 為 m 個從參數 ϕ 的白努利分佈中抽出的獨立同分佈 (iid) 的變數。令 ˆϕ 為其樣本平均、固定 γ>0，我們可以得到：
 <br>
 
 78. **Remark: this inequality is also known as the Chernoff bound.**
 
 &#10230;
-
+注意：這個不等式也被稱之為 Chernoff 界線
 <br>
 
 79. **Training error ― For a given classifier h, we define the training error ˆϵ(h), also known as the empirical risk or empirical error, to be as follows:**
