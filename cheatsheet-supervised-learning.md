@@ -470,13 +470,13 @@ k-最近鄰 - k-最近鄰演算法，又稱之為 k-NN，是一個非參數的�
 79. **Training error ― For a given classifier h, we define the training error ˆϵ(h), also known as the empirical risk or empirical error, to be as follows:**
 
 &#10230;
-
+訓練誤差 - 對於一個分類器 h，我們定義訓練誤差為 ˆϵ(h)，也可以稱為經驗風險或經驗誤差。定義如下：
 <br>
 
 80. **Probably Approximately Correct (PAC) ― PAC is a framework under which numerous results on learning theory were proved, and has the following set of assumptions: **
 
 &#10230;
-
+可能近似正確 (PAC) - 
 <br>
 
 81: **the training and testing sets follow the same distribution **
@@ -516,5 +516,9 @@ k-最近鄰 - k-最近鄰演算法，又稱之為 k-NN，是一個非參數的�
 <br>
 
 87. **Theorem (Vapnik) ― Let H be given, with VC(H)=d and m the number of training examples. With probability at least 1−δ, we have:**
+
+&#10230;
+
+88. **Known as Adaboost**
 
 &#10230;
