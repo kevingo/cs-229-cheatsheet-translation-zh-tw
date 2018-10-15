@@ -476,49 +476,51 @@ k-最近鄰 - k-最近鄰演算法，又稱之為 k-NN，是一個非參數的�
 80. **Probably Approximately Correct (PAC) ― PAC is a framework under which numerous results on learning theory were proved, and has the following set of assumptions: **
 
 &#10230;
-可能近似正確 (PAC) - 
+可能近似正確 (PAC) - PAC 是一個框架，有許多學習理論都證明其有效性。它包含以下假設：
 <br>
 
-81: **the training and testing sets follow the same distribution **
+81: **the training and testing sets follow the same distribution**
 
 &#10230;
-
+訓練和測試資料集具有相同的分佈
 <br>
 
 82. **the training examples are drawn independently**
 
 &#10230;
-
+訓練資料集之間彼此獨立
 <br>
 
 83. **Shattering ― Given a set S={x(1),...,x(d)}, and a set of classifiers H, we say that H shatters S if for any set of labels {y(1),...,y(d)}, we have:**
 
 &#10230;
-
+打散 (Shattering) - 給定一個集合 S={x(1),...,x(d)} 以及一組分類器的集合 H，如果對於任何一組標籤 {y(1),...,y(d)}，H 都能打散 S，定義如下：
 <br>
 
 84. **Upper bound theorem ― Let H be a finite hypothesis class such that |H|=k and let δ and the sample size m be fixed. Then, with probability of at least 1−δ, we have:**
 
 &#10230;
-
+上限定理 - 令 H 是一個有限假設類別，使 |H|=k 且令 δ 和樣本大小 m 固定，結著，在機率至少為 1−δ 的情況下，我們得到：
 <br>
 
 85. **VC dimension ― The Vapnik-Chervonenkis (VC) dimension of a given infinite hypothesis class H, noted VC(H) is the size of the largest set that is shattered by H.**
 
 &#10230;
-
+VC 維度 - 一個有限假設類別的 Vapnik-Chervonenkis (VC) 維度 VC(H) 指的是 H 最多能夠打散的數量
 <br>
 
 86. **Remark: the VC dimension of H={set of linear classifiers in 2 dimensions} is 3.**
 
 &#10230;
-
+注意：H={2 維的線性分類器} 的 VC 維度為 3
 <br>
 
 87. **Theorem (Vapnik) ― Let H be given, with VC(H)=d and m the number of training examples. With probability at least 1−δ, we have:**
 
 &#10230;
+理論 (Vapnik) - 令 H 已給定，VC(H)=d 且 m 是訓練資料級的數量，在機率至少為 1−δ 的情況下，我們得到：
 
 88. **Known as Adaboost**
 
 &#10230;
+被稱為 Adaboost
