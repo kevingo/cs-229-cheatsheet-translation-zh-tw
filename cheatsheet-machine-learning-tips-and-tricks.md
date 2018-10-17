@@ -1,49 +1,49 @@
 1. **Machine Learning tips and tricks cheatsheet**
 
 &#10230;
-
+機器學習秘訣和技巧參考手冊
 <br>
 
 2. **Classification metrics**
 
 &#10230;
-
+分類器的評估指標
 <br>
 
 3. **In a context of a binary classification, here are the main metrics that are important to track in order to assess the performance of the model.**
 
 &#10230;
-
+在二元分類的問題上，底下是主要用來衡量模型表現的指標
 <br>
 
 4. **Confusion matrix ― The confusion matrix is used to have a more complete picture when assessing the performance of a model. It is defined as follows:**
 
 &#10230;
-
+混淆矩陣 - 混淆矩陣是用來衡量模型整體表現的指標
 <br>
 
 5. **[Predicted class, Actual class]**
 
 &#10230;
-
+[預測類別, 真實類別]
 <br>
 
 6. **Main metrics ― The following metrics are commonly used to assess the performance of classification models:**
 
 &#10230;
-
+主要的衡量指標 - 底下的指標經常用在評估分類模型的表現
 <br>
 
 7. **[Metric, Formula, Interpretation]**
 
 &#10230;
-
+[指標, 公式, 解釋]
 <br>
 
 8. **Overall performance of model**
 
 &#10230;
-
+模型的整體表現
 <br>
 
 9. **How accurate the positive predictions are**
