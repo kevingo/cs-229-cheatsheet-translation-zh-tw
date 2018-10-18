@@ -49,13 +49,13 @@
 9. **How accurate the positive predictions are**
 
 &#10230;
-
+預測的類別有多精準的比例
 <br>
 
 10. **Coverage of actual positive sample**
 
 &#10230;
-
+實際正的樣本的覆蓋率有多少
 <br>
 
 11. **Coverage of actual negative sample**
