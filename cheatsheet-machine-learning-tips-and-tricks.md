@@ -61,25 +61,25 @@
 11. **Coverage of actual negative sample**
 
 &#10230;
-
+實際負的樣本的覆蓋率
 <br>
 
 12. **Hybrid metric useful for unbalanced classes**
 
 &#10230;
-
+對於非平衡類別相當有用的混合指標
 <br>
 
 13. **ROC ― The receiver operating curve, also noted ROC, is the plot of TPR versus FPR by varying the threshold. These metrics are are summed up in the table below:**
 
 &#10230;
-
+ROC - 接收者操作特徵曲線 (ROC Curve)，又被稱為 ROC，是透過改變閥值來表示 TPR 和 FPR 之間關係的圖形。這些指標總結如下：
 <br>
 
 14. **[Metric, Formula, Equivalent]**
 
 &#10230;
-
+[衡量指標, 公式, 等同於]
 <br>
 
 15. **AUC ― The area under the receiving operating curve, also noted AUC or AUROC, is the area below the ROC as shown in the following figure:**
