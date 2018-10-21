@@ -91,7 +91,7 @@ ROC - 接收者操作特徵曲線 (ROC Curve)，又被稱為 ROC，是透過改�
 16. **[Actual, Predicted]**
 
 &#10230;
-
+[實際值, 預測值]
 <br>
 
 17. **Basic metrics ― Given a regression model f, the following metrics are commonly used to assess the performance of the model:**
