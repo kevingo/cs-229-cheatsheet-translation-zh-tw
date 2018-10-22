@@ -85,7 +85,7 @@ ROC - 接收者操作特徵曲線 (ROC Curve)，又被稱為 ROC，是透過改�
 15. **AUC ― The area under the receiving operating curve, also noted AUC or AUROC, is the area below the ROC as shown in the following figure:**
 
 &#10230;
-
+AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 AUROC：
 <br>
 
 16. **[Actual, Predicted]**
@@ -97,13 +97,13 @@ ROC - 接收者操作特徵曲線 (ROC Curve)，又被稱為 ROC，是透過改�
 17. **Basic metrics ― Given a regression model f, the following metrics are commonly used to assess the performance of the model:**
 
 &#10230;
-
+基本的指標 - 給定一個迴歸模型 f，底下是經常用來評估此模型的指標：
 <br>
 
 18. **[Total sum of squares, Explained sum of squares, Residual sum of squares]**
 
 &#10230;
-
+[總平方和, 被解釋平方和, 殘差平方和]
 <br>
 
 19. **Coefficient of determination ― The coefficient of determination, often noted R2 or r2, provides a measure of how well the observed outcomes are replicated by the model and is defined as follows:**
