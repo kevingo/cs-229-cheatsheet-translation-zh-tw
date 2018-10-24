@@ -109,7 +109,7 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 19. **Coefficient of determination ― The coefficient of determination, often noted R2 or r2, provides a measure of how well the observed outcomes are replicated by the model and is defined as follows:**
 
 &#10230;
-
+決定係數 - 決定係數又被稱為 R2 or r2，它提供了模型是否具備復現觀測結果的能力。定義如下：
 <br>
 
 20. **Main metrics ― The following metrics are commonly used to assess the performance of regression models, by taking into account the number of variables n that they take into consideration:**
