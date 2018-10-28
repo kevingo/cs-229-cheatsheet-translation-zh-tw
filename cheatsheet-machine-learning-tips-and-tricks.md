@@ -115,7 +115,7 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 20. **Main metrics ― The following metrics are commonly used to assess the performance of regression models, by taking into account the number of variables n that they take into consideration:**
 
 &#10230;
-
+主要的衡量指標 - 藉由考量變數 n 的數量，我們經常用使用底下的指標來衡量迴歸模型的表現：
 <br>
 
 21. **where L is the likelihood and ˆσ2 is an estimate of the variance associated with each response.**
