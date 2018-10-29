@@ -121,25 +121,25 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 21. **where L is the likelihood and ˆσ2 is an estimate of the variance associated with each response.**
 
 &#10230;
-
+當中，L 代表的是概似估計，ˆσ2 則是變異數的估計
 <br>
 
 22. **Model selection**
 
 &#10230;
-
+模型選擇
 <br>
 
 23. **Vocabulary ― When selecting a model, we distinguish 3 different parts of the data that we have as follows:**
 
 &#10230;
-
+詞彙 - 當進行模型選擇時，我們會針對資料進行以下區分：
 <br>
 
 24. **[Training set, Validation set, Testing set]**
 
 &#10230;
-
+[訓練資料集, 驗證資料集, 測試資料集]
 <br>
 
 25. **[Model is trained, Model is assessed, Model gives predictions]**
