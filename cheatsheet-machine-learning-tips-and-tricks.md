@@ -145,25 +145,25 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 25. **[Model is trained, Model is assessed, Model gives predictions]**
 
 &#10230;
-
+[用來訓練模型, 用來評估模型, 模型用來預測用的資料集]
 <br>
 
 26. **[Usually 80% of the dataset, Usually 20% of the dataset]**
 
 &#10230;
-
+[通常是 80% 的資料集, 通常是 20% 的資料集]
 <br>
 
 27. **[Also called hold-out or development set, Unseen data]**
 
 &#10230;
-
+[又被稱為 hold-out 資料集或開發資料集, 模型沒看過的資料集]
 <br>
 
 28. **Once the model has been chosen, it is trained on the entire dataset and tested on the unseen test set. These are represented in the figure below:**
 
 &#10230;
-
+當模型被選擇後，就會使用整個資料集來做訓練，並且在沒看過的資料集上做測試。你可以參考以下的圖表：
 <br>
 
 29. **Cross-validation ― Cross-validation, also noted CV, is a method that is used to select a model that does not rely too much on the initial training set. The different types are summed up in the table below:**
