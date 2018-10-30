@@ -169,25 +169,25 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 29. **Cross-validation ― Cross-validation, also noted CV, is a method that is used to select a model that does not rely too much on the initial training set. The different types are summed up in the table below:**
 
 &#10230;
-
+交叉驗證 - 交叉驗證，又稱之為 CV，它是一種不特別依賴初始訓練集來挑選模型的方法。幾種不同的方法如下：
 <br>
 
-30. [**Training on k−1 folds and assessment on the remaining one, Training on n−p observations and assessment on the p remaining ones]**
+30. **[Training on k−1 folds and assessment on the remaining one, Training on n−p observations and assessment on the p remaining ones]**
 
 &#10230;
-
+[把資料分成 k 份，利用 k-1 份資料來訓練，剩下的一份用來評估模型效能, 在 n-p 份資料上進行訓練，剩下的  p 份資料用來評估模型效能]
 <br>
 
 31. **[Generally k=5 or 10, Case p=1 is called leave-one-out]**
 
 &#10230;
-
+[一般來說 k=5 或 10, 當 p=1 時，又稱為 leave-one-out]
 <br>
 
 32. **The most commonly used method is called k-fold cross-validation and splits the training data into k folds to validate the model on one fold while training the model on the k−1 other folds, all of this k times. The error is then averaged over the k folds and is named cross-validation error.**
 
 &#10230;
-
+最常用到的方法叫做 k-fold 交叉驗證。它將訓練資料切成 k 份，在 k-1 份資料上進行訓練，而剩下的一份用來評估模型的效能，這樣的流程會重複 k 次次。最後計算出來的模型損失是 k 次結果的平均，又稱為交叉驗證損失值。
 <br>
 
 33. **Regularization ― The regularization procedure aims at avoiding the model to overfit the data and thus deals with high variance issues. The following table sums up the different types of commonly used regularization techniques:**
