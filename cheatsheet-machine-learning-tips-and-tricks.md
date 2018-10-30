@@ -193,13 +193,13 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 33. **Regularization ― The regularization procedure aims at avoiding the model to overfit the data and thus deals with high variance issues. The following table sums up the different types of commonly used regularization techniques:**
 
 &#10230;
-
+正規化 - 正歸化的目的是為了避免模型對於訓練資料過擬合，進而導致高方差。底下的表格整理了常見的正規化技巧：
 <br>
 
 34. **[Shrinks coefficients to 0, Good for variable selection, Makes coefficients smaller, Tradeoff between variable selection and small coefficients]**
 
 &#10230;
-
+[將係數縮減為 0, 有利變數的選擇, 將係數變得更小, 在變數的選擇和小係數之間作權衡]
 <br>
 
 35. **Diagnostics**
