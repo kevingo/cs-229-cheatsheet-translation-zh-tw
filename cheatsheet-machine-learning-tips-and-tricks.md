@@ -205,43 +205,43 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 35. **Diagnostics**
 
 &#10230;
-
+診斷
 <br>
 
 36. **Bias ― The bias of a model is the difference between the expected prediction and the correct model that we try to predict for given data points.**
 
 &#10230;
-
+偏差 - 模型的偏差指的是模型預測值與實際值之間的差異
 <br>
 
 37. **Variance ― The variance of a model is the variability of the model prediction for given data points.**
 
 &#10230;
-
+變異 - 變異指的是模型在預測資料時的變異程度
 <br>
 
 38. **Bias/variance tradeoff ― The simpler the model, the higher the bias, and the more complex the model, the higher the variance.**
 
 &#10230;
-
+偏差/變異的權衡 - 越簡單的模型，偏差就越大。而越複雜的模型，變異就越大
 <br>
 
 39. **[Symptoms, Regression illustration, classification illustration, deep learning illustration, possible remedies]**
 
 &#10230;
-
+[現象, 迴歸圖示, 分類圖示, 深度學習圖示, 可能的解法]
 <br>
 
 40. **[High training error, Training error close to test error, High bias, Training error slightly lower than test error, Very low training error, Training error much lower than test error, High variance]**
 
 &#10230;
-
+[訓練錯誤較高, 訓練錯誤和測試錯誤接近, 高偏差, 訓練誤差會稍微比測試誤差低, 訓練誤差很低, 訓練誤差比測試誤差低很多, 高變異]
 <br>
 
 41. **[Complexify model, Add more features, Train longer, Perform regularization, Get more data]**
 
 &#10230;
-
+[使用較複雜的模型, 增加更多特徵, 訓練更久, 採用正規化化的方法, 取得更多資料]
 <br>
 
 42. **Error analysis ― Error analysis is analyzing the root cause of the difference in performance between the current and the perfect models.**
