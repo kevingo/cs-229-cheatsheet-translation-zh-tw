@@ -247,11 +247,11 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 42. **Error analysis ― Error analysis is analyzing the root cause of the difference in performance between the current and the perfect models.**
 
 &#10230;
-
+誤差分析 - 誤差分析指的是分析目前使用的模型和最佳模型之間差距的根本原因
 <br>
 
 43. **Ablative analysis ― Ablative analysis is analyzing the root cause of the difference in performance between the current and the baseline models.**
 
 &#10230;
-
+銷蝕分析 (Ablative analysis) - 銷蝕分析指的是分析目前模型和基準模型之間差異的根本原因
 <br>
