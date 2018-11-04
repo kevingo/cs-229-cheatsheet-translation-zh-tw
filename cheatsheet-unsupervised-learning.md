@@ -1,19 +1,19 @@
 1. **Unsupervised Learning cheatsheet**
 
 &#10230;
-
+非監督式學習參考手冊
 <br>
 
 2. **Introduction to Unsupervised Learning**
 
 &#10230;
-
+非監督式學習介紹
 <br>
 
 3. **Motivation ― The goal of unsupervised learning is to find hidden patterns in unlabeled data {x(1),...,x(m)}.**
 
 &#10230;
-
+動機 - 非監督式學習的目的是要找出未標籤資料 {x(1),...,x(m)} 之間的隱藏模式
 <br>
 
 4. **Jensen's inequality ― Let f be a convex function and X a random variable. We have the following inequality:**
