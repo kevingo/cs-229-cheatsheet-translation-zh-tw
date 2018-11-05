@@ -19,19 +19,19 @@
 4. **Jensen's inequality ― Let f be a convex function and X a random variable. We have the following inequality:**
 
 &#10230;
-
+Jensen's 不等式 - 另 f 為一個凸函數、X 是一個隨機變數，我們可以得到底下這個不等式：
 <br>
 
 5. **Clustering**
 
 &#10230;
-
+分群
 <br>
 
 6. **Expectation-Maximization**
 
 &#10230;
-
+最大期望值
 <br>
 
 7. **Latent variables ― Latent variables are hidden/unobserved variables that make estimation problems difficult, and are often denoted z. Here are the most common settings where there are latent variables:**
