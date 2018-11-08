@@ -55,7 +55,7 @@ Jensen's 不等式 - 另 f 為一個凸函數、X 是一個隨機變數，我們
 10. **Algorithm ― The Expectation-Maximization (EM) algorithm gives an efficient method at estimating the parameter θ through maximum likelihood estimation by repeatedly constructing a lower-bound on the likelihood (E-step) and optimizing that lower bound (M-step) as follows:**
 
 &#10230;
-
+演算法 - 最大期望演算法 (EM Algorithm) 透過重複建構一個概似函數的下界 (E-step) 和最佳化下界 (M-step) 來進行最大概似估計給出參數 θ 的高效率估計方法：
 <br>
 
 11. **E-step: Evaluate the posterior probability Qi(z(i)) that each data point x(i) came from a particular cluster z(i) as follows:**
