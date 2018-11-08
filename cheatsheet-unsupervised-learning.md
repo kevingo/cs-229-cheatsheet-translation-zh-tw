@@ -37,19 +37,19 @@ Jensen's 不等式 - 另 f 為一個凸函數、X 是一個隨機變數，我們
 7. **Latent variables ― Latent variables are hidden/unobserved variables that make estimation problems difficult, and are often denoted z. Here are the most common settings where there are latent variables:**
 
 &#10230;
-
+潛在變數 (Latent variables) - 潛在變數指的是隱藏/沒有觀察到的變數，這會讓問題的估計變得困難，我們通常使用 z 來代表它。底下是潛在變數的常見設定：
 <br>
 
 8. **[Setting, Latent variable z, Comments]**
 
 &#10230;
-
+[設定, 潛在變數 z, 評論]
 <br>
 
 9. **[Mixture of k Gaussians, Factor analysis]**
 
 &#10230;
-
+[k 元高斯模型, 因素分析]
 <br>
 
 10. **Algorithm ― The Expectation-Maximization (EM) algorithm gives an efficient method at estimating the parameter θ through maximum likelihood estimation by repeatedly constructing a lower-bound on the likelihood (E-step) and optimizing that lower bound (M-step) as follows:**
