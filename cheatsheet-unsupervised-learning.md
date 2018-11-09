@@ -61,13 +61,13 @@ Jensen's 不等式 - 另 f 為一個凸函數、X 是一個隨機變數，我們
 11. **E-step: Evaluate the posterior probability Qi(z(i)) that each data point x(i) came from a particular cluster z(i) as follows:**
 
 &#10230;
-
+E-step: 評估後驗機率 Qi(z(i))，其中每個資料點 x(i) 來自於一個特定的群集 z(i)，如下：
 <br>
 
 12. **M-step: Use the posterior probabilities Qi(z(i)) as cluster specific weights on data points x(i) to separately re-estimate each cluster model as follows:**
 
 &#10230;
-
+M-step: 使用後驗機率 Qi(z(i)) 作為資料點 x(i) 在群集中特定的權重，用來分別重新估計每個群集，如下：
 <br>
 
 13. **[Gaussians initialization, Expectation step, Maximization step, Convergence]**
