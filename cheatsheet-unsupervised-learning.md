@@ -73,7 +73,7 @@ M-step: 使用後驗機率 Qi(z(i)) 作為資料點 x(i) 在群集中特定的�
 13. **[Gaussians initialization, Expectation step, Maximization step, Convergence]**
 
 &#10230;
-
+[高斯分佈初始化, E-Step, M-Step, 收斂]
 <br>
 
 14. **k-means clustering**
