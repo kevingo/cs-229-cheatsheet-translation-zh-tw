@@ -79,31 +79,31 @@ M-step: 使用後驗機率 Qi(z(i)) 作為資料點 x(i) 在群集中特定的�
 14. **k-means clustering**
 
 &#10230;
-
+k-means 分群法
 <br>
 
 15. **We note c(i) the cluster of data point i and μj the center of cluster j.**
 
 &#10230;
-
+我們使用 c(i) 表示資料 i 屬於某群，而 μj 則是群 j 的中心
 <br>
 
 16. **Algorithm ― After randomly initializing the cluster centroids μ1,μ2,...,μk∈Rn, the k-means algorithm repeats the following step until convergence:**
 
 &#10230;
-
+演算法 - 在隨機初始化群集中心點 μ1,μ2,...,μk∈Rn 後，k-means 演算法重複以下步驟直到收斂：
 <br>
 
 17. **[Means initialization, Cluster assignment, Means update, Convergence]**
 
 &#10230;
-
+[中心點初始化, 指定群集, 更新中心點, 收斂]
 <br>
 
 18. **Distortion function ― In order to see if the algorithm converges, we look at the distortion function defined as follows:**
 
 &#10230;
-
+畸變函數 - 為了確認演算法是否收斂，我們定義以下的畸變函數：
 <br>
 
 19. **Hierarchical clustering**
