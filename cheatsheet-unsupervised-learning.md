@@ -109,25 +109,25 @@ k-means 分群法
 19. **Hierarchical clustering**
 
 &#10230;
-
+階層式分群法
 <br>
 
 20. **Algorithm ― It is a clustering algorithm with an agglomerative hierarchical approach that build nested clusters in a successive manner.**
 
 &#10230;
-
+演算法 - 階層式分群法是透過一種階層架構的方式，將資料建立為一種連續層狀結構的形式。
 <br>
 
 21. **Types ― There are different sorts of hierarchical clustering algorithms that aims at optimizing different objective functions, which is summed up in the table below:**
 
 &#10230;
-
+類型 - 底下是幾種不同類型的階層式分群法，差別在於要最佳化的目標函式的不同，請參考底下：
 <br>
 
 22. **[Ward linkage, Average linkage, Complete linkage]**
 
 &#10230;
-
+[Ward 鏈結距離, 平均鏈結距離, 完整鏈結距離]
 <br>
 
 23. **[Minimize within cluster distance, Minimize average distance between cluster pairs, Minimize maximum distance of between cluster pairs]**
