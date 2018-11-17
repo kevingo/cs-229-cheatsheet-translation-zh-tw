@@ -139,7 +139,7 @@ k-means 分群法
 24. **Clustering assessment metrics**
 
 &#10230;
-
+分群衡量指標
 <br>
 
 25. **In an unsupervised learning setting, it is often hard to assess the performance of a model since we don't have the ground truth labels as was the case in the supervised learning setting.**
