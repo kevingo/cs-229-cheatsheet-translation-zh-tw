@@ -133,7 +133,7 @@ k-means 分群法
 23. **[Minimize within cluster distance, Minimize average distance between cluster pairs, Minimize maximum distance of between cluster pairs]**
 
 &#10230;
-
+[最小化群內距離, 最小化各群彼此的平均距離, 最小化各群彼此的最大距離]
 <br>
 
 24. **Clustering assessment metrics**
