@@ -145,7 +145,7 @@ k-means 分群法
 25. **In an unsupervised learning setting, it is often hard to assess the performance of a model since we don't have the ground truth labels as was the case in the supervised learning setting.**
 
 &#10230;
-
+在無監督是學習中，通常很難去評估一個模型的好壞，因為我們沒有像在監督式學習中正確答案的標籤。
 <br>
 
 26. **Silhouette coefficient ― By noting a and b the mean distance between a sample and all other points in the same class, and between a sample and all other points in the next nearest cluster, the silhouette coefficient s for a single sample is defined as follows:**
