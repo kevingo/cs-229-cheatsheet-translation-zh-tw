@@ -134,7 +134,7 @@
 23. **We assume here that y|x;θ∼N(μ,σ2)**
 
 &#10230;
-我們在這裡進行一個假設
+我們假設 y|x;θ∼N(μ,σ2)
 <br>
 
 24. **Normal equations ― By noting X the matrix design, the value of θ that minimizes the cost function is a closed-form solution such that:**
@@ -158,7 +158,7 @@
 27. **LWR ― Locally Weighted Regression, also known as LWR, is a variant of linear regression that weights each training example in its cost function by w(i)(x), which is defined with parameter τ∈R as:**
 
 &#10230;
-局部加權迴歸 (LWR) - 局部加權迴歸，又稱為 LWR，
+局部加權迴歸 ，又稱為 LWR，是線性洄歸的變形，通過w(i)(x) 對其成本函數中的每個訓練樣本進行加權，其中參數 τ∈R 定義為：
 <br>
 
 28. **Classification and logistic regression**
@@ -170,7 +170,7 @@
 29. **Sigmoid function ― The sigmoid function g, also known as the logistic function, is defined as follows:**
 
 &#10230;
-Sigmoid 函數 - Sigmoid 函數 g，也可以稱為邏輯函數可以定義如下：
+Sigmoid 函數 - Sigmoid 函數 g，也可以稱為邏輯函數定義如下：
 <br>
 
 30. **Logistic regression ― We assume here that y|x;θ∼Bernoulli(ϕ). We have the following form:**
@@ -452,7 +452,7 @@ k-最近鄰 - k-最近鄰演算法，又稱之為 k-NN，是一個非參數的�
 76. **Union bound ― Let A1,...,Ak be k events. We have:**
 
 &#10230;
-聯集上界 - 令 A1,...,Ak 為 k 個事件，產生一下定義：
+聯集上界 - 令 A1,...,Ak 為 k 個事件，我們有：
 <br>
 
 77. **Hoeffding inequality ― Let Z1,..,Zm be m iid variables drawn from a Bernoulli distribution of parameter ϕ. Let ˆϕ be their sample mean and γ>0 fixed. We have:**
