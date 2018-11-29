@@ -145,13 +145,13 @@ k-means 分群法
 25. **In an unsupervised learning setting, it is often hard to assess the performance of a model since we don't have the ground truth labels as was the case in the supervised learning setting.**
 
 &#10230;
-在無監督是學習中，通常很難去評估一個模型的好壞，因為我們沒有像在監督式學習中正確答案的標籤。
+在無監督式學習中，通常很難去評估一個模型的好壞，因為我們沒有像在監督式學習中正確答案的標籤。
 <br>
 
 26. **Silhouette coefficient ― By noting a and b the mean distance between a sample and all other points in the same class, and between a sample and all other points in the next nearest cluster, the silhouette coefficient s for a single sample is defined as follows:**
 
 &#10230;
-
+輪廓係數 (Silhouette coefficient) - 我們指定 a 為一個樣本點和相同群集中其他資料點的平均距離、b 為一個樣本點和下一個最接近群集其他資料點的平均距離，輪廓係數 s 對於此一樣本點的定義為：
 <br>
 
 27. **Calinski-Harabaz index ― By noting k the number of clusters, Bk and Wk the between and within-clustering dispersion matrices respectively defined as**
