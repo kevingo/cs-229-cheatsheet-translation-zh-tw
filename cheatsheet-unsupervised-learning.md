@@ -169,13 +169,13 @@ k-means 分群法
 29. **Dimension reduction**
 
 &#10230;
-
+維度縮減
 <br>
 
 30. **Principal component analysis**
 
 &#10230;
-
+主成份分析
 <br>
 
 31. **It is a dimension reduction technique that finds the variance maximizing directions onto which to project the data.**
