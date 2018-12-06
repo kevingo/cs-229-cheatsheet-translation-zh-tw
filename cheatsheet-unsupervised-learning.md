@@ -157,13 +157,13 @@ k-means 分群法
 27. **Calinski-Harabaz index ― By noting k the number of clusters, Bk and Wk the between and within-clustering dispersion matrices respectively defined as**
 
 &#10230;
-
+Calinski-Harabaz 指標 - 定義 k 是群集的數量，Bk 和 Wk 分別是群內和群集之間的離差矩陣 (dispersion matrices)：
 <br>
 
 28. **the Calinski-Harabaz index s(k) indicates how well a clustering model defines its clusters, such that the higher the score, the more dense and well separated the clusters are. It is defined as follows:**
 
 &#10230;
-
+Calinski-Harabaz 指標 s(k) 指出分群模型的好壞，此指標的值越高，代表分群模型的表現越好。定義如下：
 <br>
 
 29. **Dimension reduction**
