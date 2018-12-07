@@ -181,25 +181,25 @@ Calinski-Harabaz 指標 s(k) 指出分群模型的好壞，此指標的值越高
 31. **It is a dimension reduction technique that finds the variance maximizing directions onto which to project the data.**
 
 &#10230;
-
+這是一個維度縮減的技巧，在於找到投影資料的最大方差
 <br>
 
 32. **Eigenvalue, eigenvector ― Given a matrix A∈Rn×n, λ is said to be an eigenvalue of A if there exists a vector z∈Rn∖{0}, called eigenvector, such that we have:**
 
 &#10230;
-
+特徵值、特徵向量 - 給定一個矩陣 A∈Rn×n，我們說 λ 是 A 的特徵值，當存在一個特徵向量 z∈Rn∖{0}，使得：
 <br>
 
 33. **Spectral theorem ― Let A∈Rn×n. If A is symmetric, then A is diagonalizable by a real orthogonal matrix U∈Rn×n. By noting Λ=diag(λ1,...,λn), we have:**
 
 &#10230;
-
+譜定理 - 令 A∈Rn×n，如果 A 是對稱的，則 A 可以可以透過正交矩陣 U∈Rn×n 對角化。當 Λ=diag(λ1,...,λn)，我們得到：
 <br>
 
 34. **diagonal**
 
 &#10230;
-
+對角線
 <br>
 
 35. **Remark: the eigenvector associated with the largest eigenvalue is called principal eigenvector of matrix A.**
