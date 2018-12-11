@@ -205,7 +205,7 @@ Calinski-Harabaz 指標 s(k) 指出分群模型的好壞，此指標的值越高
 35. **Remark: the eigenvector associated with the largest eigenvalue is called principal eigenvector of matrix A.**
 
 &#10230;
-
+注意：與特徵值所關聯的特徵向量就是 A 矩陣的主特徵向量
 <br>
 
 36. **Algorithm ― The Principal Component Analysis (PCA) procedure is a dimension reduction technique that projects the data on k dimensions by maximizing the variance of the data as follows:**
