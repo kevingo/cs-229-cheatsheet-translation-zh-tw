@@ -211,37 +211,37 @@ Calinski-Harabaz 指標 s(k) 指出分群模型的好壞，此指標的值越高
 36. **Algorithm ― The Principal Component Analysis (PCA) procedure is a dimension reduction technique that projects the data on k dimensions by maximizing the variance of the data as follows:**
 
 &#10230;
-
+演算法 - 主成份分析 (PCA) 是一種維度縮減的技巧，它會透過尋找資料最大變異的方式，將資料投影在 k 維空間上：
 <br>
 
 37. **Step 1: Normalize the data to have a mean of 0 and standard deviation of 1.**
 
 &#10230;
-
+第一步：正規化資料，讓資料平均為 0，變異數為 1
 <br>
 
 38. **Step 2: Compute Σ=1mm∑i=1x(i)x(i)T∈Rn×n, which is symmetric with real eigenvalues.**
 
 &#10230;
-
+第二步：計算 Σ=1mm∑i=1x(i)x(i)T∈Rn×n，即對稱實際特徵值
 <br>
 
 39. **Step 3: Compute u1,...,uk∈Rn the k orthogonal principal eigenvectors of Σ, i.e. the orthogonal eigenvectors of the k largest eigenvalues.**
 
 &#10230;
-
+第三步：計算 u1,...,uk∈Rn，k 個正交主特徵向量的總和 Σ，即是 k 個最大特徵值的正交特徵向量
 <br>
 
 40. **Step 4: Project the data on spanR(u1,...,uk).**
 
 &#10230;
-
+第四部：將資料投影到 spanR(u1,...,uk)
 <br>
 
 41. **This procedure maximizes the variance among all k-dimensional spaces.**
 
 &#10230;
-
+這個步驟會最大化所有 k 為空間為空間的變異數
 <br>
 
 42. **[Data in feature space, Find principal components, Data in principal components space]**
