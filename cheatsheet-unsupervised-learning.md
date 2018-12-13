@@ -271,7 +271,7 @@ Calinski-Harabaz 指標 s(k) 指出分群模型的好壞，此指標的值越高
 46. **The goal is to find the unmixing matrix W=A−1.**
 
 &#10230;
-
+目的在於找到一個 unmixing 矩陣 W=A−1
 <br>
 
 47. **Bell and Sejnowski ICA algorithm ― This algorithm finds the unmixing matrix W by following the steps below:**
