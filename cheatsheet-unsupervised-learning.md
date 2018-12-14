@@ -277,13 +277,13 @@ Calinski-Harabaz 指標 s(k) 指出分群模型的好壞，此指標的值越高
 47. **Bell and Sejnowski ICA algorithm ― This algorithm finds the unmixing matrix W by following the steps below:**
 
 &#10230;
-
+Bell 和 Sejnowski 獨立成份分析演算法 - 此演算法透過以下步驟來找到 unmixing 矩陣：
 <br>
 
 48. **Write the probability of x=As=W−1s as:**
 
 &#10230;
-
+紀錄 x=As=W−1s 的機率如下：
 <br>
 
 49. **Write the log likelihood given our training data {x(i),i∈[[1,m]]} and by noting g the sigmoid function as:**
