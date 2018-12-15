@@ -289,10 +289,10 @@ Bell 和 Sejnowski 獨立成份分析演算法 - 此演算法透過以下步驟�
 49. **Write the log likelihood given our training data {x(i),i∈[[1,m]]} and by noting g the sigmoid function as:**
 
 &#10230;
-
+在給定訓練資料 {x(i),i∈[[1,m]]} 的情況下，其對數概似估計函數與定義 g  為 sigmoid 函數如下：
 <br>
 
 50. **Therefore, the stochastic gradient ascent learning rule is such that for each training example x(i), we update W as follows:**
 
 &#10230;
-
+因此，梯度隨機下降學習規則對每個訓練樣本 x(i) 來說，我們透過以下方法來更新 W：
