@@ -1,25 +1,25 @@
 1. **Probabilities and Statistics refresher**
 
 &#10230;
-
+機率和統計回顧
 <br>
 
 2. **Introduction to Probability and Combinatorics**
 
 &#10230;
-
+幾率與組合數學介紹
 <br>
 
 3. **Sample space ― The set of all possible outcomes of an experiment is known as the sample space of the experiment and is denoted by S.**
 
 &#10230;
-
+樣本空間 - 一個實驗的所有可能結果的集合稱之為這個實驗的樣本空間，記做 S
 <br>
 
 4. **Event ― Any subset E of the sample space is known as an event. That is, an event is a set consisting of possible outcomes of the experiment. If the outcome of the experiment is contained in E, then we say that E has occurred.**
 
 &#10230;
-
+事件 - 樣本空間的任何子集合 E 被稱之為一個事件。也就是說，一個事件是實驗的可能結果的集合。如果該實驗的結果包含 E，我們稱我們稱 E 發生
 <br>
 
 5. **Axioms of probability For each event E, we denote P(E) as the probability of event E occuring.**
