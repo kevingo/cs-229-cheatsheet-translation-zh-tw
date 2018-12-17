@@ -25,25 +25,25 @@
 5. **Axioms of probability For each event E, we denote P(E) as the probability of event E occuring.**
 
 &#10230;
-
+機率公理。對於每個事件 E，我們用 P(E) 表示事件 E 發生的機率
 <br>
 
 6. **Axiom 1 ― Every probability is between 0 and 1 included, i.e:**
 
 &#10230;
-
+公理 1 - 每一個機率值介於 0 到 1 之間，包含兩端點。即：
 <br>
 
 7. **Axiom 2 ― The probability that at least one of the elementary events in the entire sample space will occur is 1, i.e:**
 
 &#10230;
-
+公理 2 - 至少一個基本事件出現在整個樣本空間中的機率是 1。即：
 <br>
 
 8. **Axiom 3 ― For any sequence of mutually exclusive events E1,...,En, we have:**
 
 &#10230;
-
+公理 3 - 對於任何互斥的事件 E1,...,En，我們定義如下：
 <br>
 
 9. **Permutation ― A permutation is an arrangement of r objects from a pool of n objects, in a given order. The number of such arrangements is given by P(n,r), defined as:**
