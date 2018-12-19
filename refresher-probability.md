@@ -97,49 +97,49 @@
 17. **Extended form of Bayes' rule ― Let {Ai,i∈[[1,n]]} be a partition of the sample space. We have:**
 
 &#10230;
-
+貝氏定理的擴展 - 令 {Ai,i∈[[1,n]]} 為樣本空間的一個分割，我們定義：
 <br>
 
 18. **Independence ― Two events A and B are independent if and only if we have:**
 
 &#10230;
-
+獨立 - 當以下條件滿足時，兩個事件 A 和 B 為獨立事件：
 <br>
 
 19. **Random Variables**
 
 &#10230;
-
+隨機變數
 <br>
 
 20. **Definitions**
 
 &#10230;
-
+定義
 <br>
 
 21. **Random variable ― A random variable, often noted X, is a function that maps every element in a sample space to a real line.**
 
 &#10230;
-
+隨機變數 - 一個隨機變數 X，它是一個將樣本空間中的每個元素映射到實數域的函數
 <br>
 
 22. **Cumulative distribution function (CDF) ― The cumulative distribution function F, which is monotonically non-decreasing and is such that limx→−∞F(x)=0 and limx→+∞F(x)=1, is defined as:**
 
 &#10230;
-
+累積分佈函數 (CDF) - 累積分佈函數 F 是單調且不減的函數，其 limx→−∞F(x)=0 且 limx→+∞F(x)=1，定義如下：
 <br>
 
 23. **Remark: we have P(a<X⩽B)=F(b)−F(a).**
 
 &#10230;
-
+注意：P(a<X⩽B)=F(b)−F(a)
 <br>
 
 24. **Probability density function (PDF) ― The probability density function f is the probability that X takes on values between two adjacent realizations of the random variable.**
 
 &#10230;
-
+機率密度函數 - 機率密度函數 f 是隨機變數 X 在兩個相鄰的實數值附近取值的機率
 <br>
 
 25. **Relationships involving the PDF and CDF ― Here are the important properties to know in the discrete (D) and the continuous (C) cases.**
