@@ -61,37 +61,37 @@
 11. **Remark: we note that for 0⩽r⩽n, we have P(n,r)⩾C(n,r)**
 
 &#10230;
-
+注意：對於 0⩽r⩽n，我們會有 P(n,r)⩾C(n,r)
 <br>
 
 12. **Conditional Probability**
 
 &#10230;
-
+條件機率
 <br>
 
 13. **Bayes' rule ― For events A and B such that P(B)>0, we have:**
 
 &#10230;
-
+貝氏定理 - 對於事件 A 和 B 滿足 P(B)>0 時，我們定義如下：
 <br>
 
 14. **Remark: we have P(A∩B)=P(A)P(B|A)=P(A|B)P(B)**
 
 &#10230;
-
+注意：P(A∩B)=P(A)P(B|A)=P(A|B)P(B)
 <br>
 
 15. **Partition ― Let {Ai,i∈[[1,n]]} be such that for all i, Ai≠∅. We say that {Ai} is a partition if we have:**
 
 &#10230;
-
+分割 - 令 {Ai,i∈[[1,n]]} 對所有的 i，Ai≠∅，我們說 {Ai} 是一個分割，當底下成立時：
 <br>
 
 16. **Remark: for any event B in the sample space, we have P(B)=n∑i=1P(B|Ai)P(Ai).**
 
 &#10230;
-
+注意：對於任何在樣本空間的事件 B 來說，P(B)=n∑i=1P(B|Ai)P(Ai)
 <br>
 
 17. **Extended form of Bayes' rule ― Let {Ai,i∈[[1,n]]} be a partition of the sample space. We have:**
