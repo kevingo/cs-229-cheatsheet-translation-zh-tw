@@ -49,13 +49,13 @@
 9. **Permutation ― A permutation is an arrangement of r objects from a pool of n objects, in a given order. The number of such arrangements is given by P(n,r), defined as:**
 
 &#10230;
-
+排列 - 排列指的是從 n 個相異的物件中，取出 r 個物件按照固定順序重新安排，這樣安排的數量用 P(n,r) 來表示，定義為：
 <br>
 
 10. **Combination ― A combination is an arrangement of r objects from a pool of n objects, where the order does not matter. The number of such arrangements is given by C(n,r), defined as:**
 
 &#10230;
-
+組合 - 組合指的是從 n 個物件中，取出 r 個物件，但不考慮他的順序。這樣組合要考慮的數量用 C(n,r) 來表示，定義為：
 <br>
 
 11. **Remark: we note that for 0⩽r⩽n, we have P(n,r)⩾C(n,r)**
