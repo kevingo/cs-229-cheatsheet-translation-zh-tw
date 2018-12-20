@@ -145,13 +145,13 @@
 25. **Relationships involving the PDF and CDF ― Here are the important properties to know in the discrete (D) and the continuous (C) cases.**
 
 &#10230;
-
+機率密度函數和累積分佈函數的關係 - 底下是一些關於離散 (D) 和連續 (C) 的情況下的重要屬性
 <br>
 
 26. **[Case, CDF F, PDF f, Properties of PDF]**
 
 &#10230;
-
+[情況, 累積分佈函數 F, 機率密度函數 f, 機率密度函數的屬性]
 <br>
 
 27. **Expectation and Moments of the Distribution ― Here are the expressions of the expected value E[X], generalized expected value E[g(X)], kth moment E[Xk] and characteristic function ψ(ω) for the discrete and continuous cases:**
