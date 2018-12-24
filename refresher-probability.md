@@ -157,7 +157,7 @@
 27. **Expectation and Moments of the Distribution ― Here are the expressions of the expected value E[X], generalized expected value E[g(X)], kth moment E[Xk] and characteristic function ψ(ω) for the discrete and continuous cases:**
 
 &#10230;
-
+分佈的期望值和動差 - 底下是期望值 E[X]、一般期望值  E[g(X)]、第 k 個動差和特徵函數 ψ(ω) 在離散和連續的情況下的表示式：
 <br>
 
 28. **Variance ― The variance of a random variable, often noted Var(X) or σ2, is a measure of the spread of its distribution function. It is determined as follows:**
