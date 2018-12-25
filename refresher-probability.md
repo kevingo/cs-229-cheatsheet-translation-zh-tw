@@ -163,19 +163,19 @@
 28. **Variance ― The variance of a random variable, often noted Var(X) or σ2, is a measure of the spread of its distribution function. It is determined as follows:**
 
 &#10230;
-
+變異數 - 隨機變數的變異數通常表示為 Var(X) 或 σ2，用來衡量一個分佈離散程度的指標。其表示如下：
 <br>
 
 29. **Standard deviation ― The standard deviation of a random variable, often noted σ, is a measure of the spread of its distribution function which is compatible with the units of the actual random variable. It is determined as follows:**
 
 &#10230;
-
+標準差 - 一個隨機變數的標準差通常表示為 σ，用來衡量一個分佈離散程度的指標，其單位和實際的隨機變數相容，表示如下：
 <br>
 
 30. **Transformation of random variables ― Let the variables X and Y be linked by some function. By noting fX and fY the distribution function of X and Y respectively, we have:**
 
 &#10230;
-
+隨機變數的轉換 - 令變數 X 和 Y 由某個函式連結在一起。我們定義 fX 和 fY 是 X 和 Y 的分佈函式，可以得到：
 <br>
 
 31. **Leibniz integral rule ― Let g be a function of x and potentially c, and a,b boundaries that may depend on c. We have:**
