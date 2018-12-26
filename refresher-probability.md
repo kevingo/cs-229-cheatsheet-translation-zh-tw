@@ -181,25 +181,25 @@
 31. **Leibniz integral rule ― Let g be a function of x and potentially c, and a,b boundaries that may depend on c. We have:**
 
 &#10230;
-
+萊布尼茲積分法則 - 令 g 為 x 和 c 的函數，a 和 b 是依賴於 c 的的邊界，我們得到：
 <br>
 
 32. **Probability Distributions**
 
 &#10230;
-
+機率分佈
 <br>
 
 33. **Chebyshev's inequality ― Let X be a random variable with expected value μ. For k,σ>0, we have the following inequality:**
 
 &#10230;
-
+柴比雪夫不等式 - 令 X 是一隨機變數，期望值為 μ。對於 k, σ>0，我們有以下不等式：
 <br>
 
 34. **Main distributions ― Here are the main distributions to have in mind:**
 
 &#10230;
-
+主要的分佈 - 底下是我們需要熟悉的幾個主要的不等式：
 <br>
 
 35. **[Type, Distribution]**
