@@ -205,13 +205,13 @@
 35. **[Type, Distribution]**
 
 &#10230;
-
+[種類, 分佈]
 <br>
 
 36. **Jointly Distributed Random Variables**
 
 &#10230;
-
+聯合機率分佈
 <br>
 
 37. **Marginal density and cumulative distribution ― From the joint density probability function fXY , we have**
