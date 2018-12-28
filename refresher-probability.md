@@ -211,31 +211,31 @@
 36. **Jointly Distributed Random Variables**
 
 &#10230;
-聯合機率分佈
+聯合分佈隨機變數
 <br>
 
 37. **Marginal density and cumulative distribution ― From the joint density probability function fXY , we have**
 
 &#10230;
-
+邊緣密度和累積分佈 - 從聯合密度機率函數 fXY 中我們可以得到：
 <br>
 
 38. **[Case, Marginal density, Cumulative function]**
 
 &#10230;
-
+[種類, 邊緣密度函數, 累積函數]
 <br>
 
 39. **Conditional density ― The conditional density of X with respect to Y, often noted fX|Y, is defined as follows:**
 
 &#10230;
-
+條件密度 - X 對於 Y 的條件密度，通常用 fX|Y 表示如下：
 <br>
 
 40. **Independence ― Two random variables X and Y are said to be independent if we have:**
 
 &#10230;
-
+獨立 - 當滿足以下條件時，我們稱隨機變數 X 和 Y 互相獨立：
 <br>
 
 41. **Covariance ― We define the covariance of two random variables X and Y, that we note σ2XY or more commonly Cov(X,Y), as follows:**
