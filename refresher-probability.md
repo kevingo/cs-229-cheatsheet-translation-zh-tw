@@ -241,25 +241,25 @@
 41. **Covariance ― We define the covariance of two random variables X and Y, that we note σ2XY or more commonly Cov(X,Y), as follows:**
 
 &#10230;
-
+共變異數 - 我們定義隨機變數 X 和 Y 的共變異數為 σ2XY 或 Cov(X,Y) 如下：
 <br>
 
 42. **Correlation ― By noting σX,σY the standard deviations of X and Y, we define the correlation between the random variables X and Y, noted ρXY, as follows:**
 
 &#10230;
-
+相關性 - 我們定義 σX、σY 為 X 和 Y 的標準差，而 X 和 Y 的相關係數 ρXY 定義如下：
 <br>
 
 43. **Remark 1: we note that for any random variables X,Y, we have ρXY∈[−1,1].**
 
 &#10230;
-
+注意一：對於任何隨機變數 X 和 Y 來說，ρXY∈[−1,1] 成立
 <br>
 
 44. **Remark 2: If X and Y are independent, then ρXY=0.**
 
 &#10230;
-
+注意二：當 X 和 Y 獨立時，ρXY=0
 <br>
 
 45. **Parameter estimation**
