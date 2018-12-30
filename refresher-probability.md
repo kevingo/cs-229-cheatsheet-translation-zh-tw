@@ -265,37 +265,37 @@
 45. **Parameter estimation**
 
 &#10230;
-
+參數估計
 <br>
 
 46. **Definitions**
 
 &#10230;
-
+定義
 <br>
 
 47. **Random sample ― A random sample is a collection of n random variables X1,...,Xn that are independent and identically distributed with X.**
 
 &#10230;
-
+隨機抽樣 - 隨機抽樣指的是 n 個隨機變數 X1,...,Xn 和 X 獨立且同分佈的集合
 <br>
 
 48. **Estimator ― An estimator is a function of the data that is used to infer the value of an unknown parameter in a statistical model.**
 
 &#10230;
-
+估計量 - 估計量是一個資料的函數，用來推斷在統計模型中未知參數的值
 <br>
 
 49. **Bias ― The bias of an estimator ^θ is defined as being the difference between the expected value of the distribution of ^θ and the true value, i.e.:**
 
 &#10230;
-
+偏差 - 一個估計量的偏差 ^θ 定義為 ^θ 分佈期望值和真實值之間的差距：
 <br>
 
 50. **Remark: an estimator is said to be unbiased when we have E[^θ]=θ.**
 
 &#10230;
-
+注意：當 E[^θ]=θ 時，我們稱為不偏估計量
 <br>
 
 51. **Estimating the mean**
