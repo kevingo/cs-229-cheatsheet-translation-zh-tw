@@ -301,25 +301,25 @@
 51. **Estimating the mean**
 
 &#10230;
-
+預估平均數
 <br>
 
 52. **Sample mean ― The sample mean of a random sample is used to estimate the true mean μ of a distribution, is often noted ¯X and is defined as follows:**
 
 &#10230;
-
+樣本平均 - 一個隨機樣本的樣本平均是用來預估一個分佈的真實平均 μ，通常我們用 ¯X 來表示，定義如下：
 <br>
 
 53. **Remark: the sample mean is unbiased, i.e E[¯X]=μ.**
 
 &#10230;
-
+注意：當 E[¯X]=μ 時，則為不偏樣本平均
 <br>
 
 54. **Central Limit Theorem ― Let us have a random sample X1,...,Xn following a given distribution with mean μ and variance σ2, then we have:**
 
 &#10230;
-
+中央極限定理 - 當我們有一個隨機樣本 X1,...,Xn 滿足一個給定的分佈，其平均數為 μ，變異數為 σ2，我們有：
 <br>
 
 55. **Estimating the variance**
