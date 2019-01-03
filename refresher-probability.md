@@ -325,19 +325,19 @@
 55. **Estimating the variance**
 
 &#10230;
-
+估計變異數
 <br>
 
 56. **Sample variance ― The sample variance of a random sample is used to estimate the true variance σ2 of a distribution, is often noted s2 or ^σ2 and is defined as follows:**
 
 &#10230;
-
+樣本變異數 - 一個隨機樣本的樣本變異數是用來估計一個分佈的真實變異數 σ2，通常使用 s2 或 ^σ2 來表示，定義如下：
 <br>
 
 57. **Remark: the sample variance is unbiased, i.e E[s2]=σ2.**
 
 &#10230;
-
+注意：當 E[s2]=σ2 時，稱之為不偏樣本變異數
 <br>
 
 58. **Chi-Squared relation with sample variance ― Let s2 be the sample variance of a random sample. We have:**
@@ -345,3 +345,37 @@
 &#10230;
 
 <br>
+
+**59. [Introduction, Sample space, Event, Permutation]**
+
+&#10230; [Introducción, Espacio Muestral, Evento, Permutación]
+
+<br>
+
+**60. [Conditional probability, Bayes' rule, Independence]**
+
+&#10230; [Probabilidad condicional, Regla de Bayes, Independencia]
+
+<br>
+
+**61. [Random variables, Definitions, Expectation, Variance]**
+
+&#10230; [Variables aleatorias, Definiciones, Valor esperado, Varianza]
+
+<br>
+
+**62. [Probability distributions, Chebyshev's inequality, Main distributions]**
+
+&#10230; [Distribuciones de probabilidad, Desigualdad de Chebyshev, Principales Distribuciones]
+
+<br>
+
+**63. [Jointly distributed random variables, Density, Covariance, Correlation]**
+
+&#10230; [Variables aleatorias distribuidas conjuntamente, Densidad, Covarianza, Correlación]
+
+<br>
+
+**64. [Parameter estimation, Mean, Variance]**
+
+&#10230; [Estimación de Parámetros, Media, Varianza]
