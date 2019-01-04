@@ -348,34 +348,34 @@
 
 **59. [Introduction, Sample space, Event, Permutation]**
 
-&#10230; [Introducción, Espacio Muestral, Evento, Permutación]
+&#10230;
 
 <br>
 
 **60. [Conditional probability, Bayes' rule, Independence]**
 
-&#10230; [Probabilidad condicional, Regla de Bayes, Independencia]
+&#10230;
 
 <br>
 
 **61. [Random variables, Definitions, Expectation, Variance]**
 
-&#10230; [Variables aleatorias, Definiciones, Valor esperado, Varianza]
+&#10230;
 
 <br>
 
 **62. [Probability distributions, Chebyshev's inequality, Main distributions]**
 
-&#10230; [Distribuciones de probabilidad, Desigualdad de Chebyshev, Principales Distribuciones]
+&#10230;
 
 <br>
 
 **63. [Jointly distributed random variables, Density, Covariance, Correlation]**
 
-&#10230; [Variables aleatorias distribuidas conjuntamente, Densidad, Covarianza, Correlación]
+&#10230;
 
 <br>
 
 **64. [Parameter estimation, Mean, Variance]**
 
-&#10230; [Estimación de Parámetros, Media, Varianza]
+&#10230;
