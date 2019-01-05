@@ -343,39 +343,40 @@
 58. **Chi-Squared relation with sample variance ― Let s2 be the sample variance of a random sample. We have:**
 
 &#10230;
-
+與樣本變異數的卡方關聯 - 令 s2 是一個隨機樣本的樣本變異數，我們可以得到：
 <br>
 
 **59. [Introduction, Sample space, Event, Permutation]**
 
 &#10230;
-
+[介紹, 樣本空間, 事件, 排列]
 <br>
 
 **60. [Conditional probability, Bayes' rule, Independence]**
 
 &#10230;
-
+[條件機率, 貝氏定理, 獨立性]
 <br>
 
 **61. [Random variables, Definitions, Expectation, Variance]**
 
 &#10230;
-
+[隨機變數, 定義, 期望值, 變異數]
 <br>
 
 **62. [Probability distributions, Chebyshev's inequality, Main distributions]**
 
 &#10230;
-
+[機率分佈, 柴比雪夫不等式, 主要分佈]
 <br>
 
 **63. [Jointly distributed random variables, Density, Covariance, Correlation]**
 
 &#10230;
-
+[聯合分佈隨機變數, 密度, 共變異數, 相關]
 <br>
 
 **64. [Parameter estimation, Mean, Variance]**
 
 &#10230;
+[參數估計, 平均數, 變異數]
