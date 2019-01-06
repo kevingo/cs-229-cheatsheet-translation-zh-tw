@@ -19,7 +19,7 @@
 4. **Jensen's inequality ― Let f be a convex function and X a random variable. We have the following inequality:**
 
 &#10230;
-Jensen's 不等式 - 另 f 為一個凸函數、X 是一個隨機變數，我們可以得到底下這個不等式：
+Jensen's 不等式 - 令 f 為一個凸函數、X 為一個隨機變數，我們可以得到底下這個不等式：
 <br>
 
 5. **Clustering**
