@@ -31,25 +31,25 @@
 6. **Remark: the vector x defined above can be viewed as a n×1 matrix and is more particularly called a column-vector.**
 
 &#10230;
-
+注意：上述定義的向量 x 可以視為 nx1 的矩陣，或是更常被稱為行向量
 <br>
 
 7. **Main matrices**
 
 &#10230;
-
+主要的矩陣
 <br>
 
 8. **Identity matrix ― The identity matrix I∈Rn×n is a square matrix with ones in its diagonal and zero everywhere else:**
 
 &#10230;
-
+單位矩陣 - 單位矩陣 I∈Rn×n 是一個方陣，其對角線皆為 1，其餘皆為 0
 <br>
 
 9. **Remark: for all matrices A∈Rn×n, we have A×I=I×A=A.**
 
 &#10230;
-
+注意：對於所有矩陣 A∈Rn×n，我們有 A×I=I×A=A
 <br>
 
 10. **Diagonal matrix ― A diagonal matrix D∈Rn×n is a square matrix with nonzero values in its diagonal and zero everywhere else:**
