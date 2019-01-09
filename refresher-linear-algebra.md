@@ -1,61 +1,61 @@
 1. **Linear Algebra and Calculus refresher**
 
 &#10230;
-
+線性代數與微積分回顧
 <br>
 
 2. **General notations**
 
 &#10230;
-
+通用符號
 <br>
 
 3. **Definitions**
 
 &#10230;
-
+定義
 <br>
 
 4. **Vector ― We note x∈Rn a vector with n entries, where xi∈R is the ith entry:**
 
 &#10230;
-
+向量 - 我們定義 x∈Rn 是一個向量，包含 n 維元素，xi∈R 是第 i 維元素：
 <br>
 
-5. **Matrix ― We note A∈Rm×n a matrix with n rows and m, where Ai,j∈R is the entry located in the ith row and jth column:**
+5. **Matrix ― We note A∈Rm×n a matrix with m rows and n columns, where Ai,j∈R is the entry located in the ith row and jth column:**
 
 &#10230;
-
+矩陣 - 我們定義 A∈Rm×n 是一個 m 行 n 列的矩陣，Ai,j∈R 代表位在第 i 行第 j 列的元素：
 <br>
 
 6. **Remark: the vector x defined above can be viewed as a n×1 matrix and is more particularly called a column-vector.**
 
 &#10230;
-
+注意：上述定義的向量 x 可以視為 nx1 的矩陣，或是更常被稱為行向量
 <br>
 
 7. **Main matrices**
 
 &#10230;
-
+主要的矩陣
 <br>
 
 8. **Identity matrix ― The identity matrix I∈Rn×n is a square matrix with ones in its diagonal and zero everywhere else:**
 
 &#10230;
-
+單位矩陣 - 單位矩陣 I∈Rn×n 是一個方陣，其主對角線皆為 1，其餘皆為 0
 <br>
 
 9. **Remark: for all matrices A∈Rn×n, we have A×I=I×A=A.**
 
 &#10230;
-
+注意：對於所有矩陣 A∈Rn×n，我們有 A×I=I×A=A
 <br>
 
 10. **Diagonal matrix ― A diagonal matrix D∈Rn×n is a square matrix with nonzero values in its diagonal and zero everywhere else:**
 
 &#10230;
-
+對角矩陣 - 對角矩陣 D∈Rn×n 是一個方陣，其主對角線為非 0，其餘皆為 0
 <br>
 
 11. **Remark: we also note D as diag(d1,...,dn).**
