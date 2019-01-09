@@ -43,7 +43,7 @@
 8. **Identity matrix ― The identity matrix I∈Rn×n is a square matrix with ones in its diagonal and zero everywhere else:**
 
 &#10230;
-單位矩陣 - 單位矩陣 I∈Rn×n 是一個方陣，其對角線皆為 1，其餘皆為 0
+單位矩陣 - 單位矩陣 I∈Rn×n 是一個方陣，其主對角線皆為 1，其餘皆為 0
 <br>
 
 9. **Remark: for all matrices A∈Rn×n, we have A×I=I×A=A.**
@@ -55,7 +55,7 @@
 10. **Diagonal matrix ― A diagonal matrix D∈Rn×n is a square matrix with nonzero values in its diagonal and zero everywhere else:**
 
 &#10230;
-
+對角矩陣 - 對角矩陣 D∈Rn×n 是一個方陣，其主對角線為非 0，其餘皆為 0
 <br>
 
 11. **Remark: we also note D as diag(d1,...,dn).**
