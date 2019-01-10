@@ -61,37 +61,37 @@
 11. **Remark: we also note D as diag(d1,...,dn).**
 
 &#10230;
-
+注意：我們令 D 為 diag(d1,...,dn)
 <br>
 
 12. **Matrix operations**
 
 &#10230;
-
+矩陣運算
 <br>
 
 13. **Multiplication**
 
 &#10230;
-
+乘法
 <br>
 
 14. **Vector-vector ― There are two types of vector-vector products:**
 
 &#10230;
-
+向量-向量 - 有兩種類型的向量-向量相乘：
 <br>
 
 15. **inner product: for x,y∈Rn, we have:**
 
 &#10230;
-
+內積：對於 x,y∈Rn，我們可以得到：
 <br>
 
 16. **outer product: for x∈Rm,y∈Rn, we have:**
 
 &#10230;
-
+外積：對於 x∈Rm,y∈Rn，我們可以得到：
 <br>
 
 17. **Matrix-vector ― The product of matrix A∈Rm×n and vector x∈Rn is a vector of size Rn, such that:**
