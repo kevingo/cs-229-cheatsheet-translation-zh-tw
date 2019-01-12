@@ -97,7 +97,7 @@
 17. **Matrix-vector ― The product of matrix A∈Rm×n and vector x∈Rn is a vector of size Rn, such that:**
 
 &#10230;
-
+矩陣-向量 - 矩陣 A∈Rm×n 和向量 x∈Rn 的乘積是一個大小為 Rn 的向量，使得：
 <br>
 
 18. **where aTr,i are the vector rows and ac,j are the vector columns of A, and xi are the entries of x.**
