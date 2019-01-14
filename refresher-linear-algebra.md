@@ -103,31 +103,31 @@
 18. **where aTr,i are the vector rows and ac,j are the vector columns of A, and xi are the entries of x.**
 
 &#10230;
-
+其中 aTr,i 是 A 的行向量、ac,j 是 A 的列向量、xi 是 x 的元素
 <br>
 
 19. **Matrix-matrix ― The product of matrices A∈Rm×n and B∈Rn×p is a matrix of size Rn×p, such that:**
 
 &#10230;
-
+矩陣-矩陣：矩陣 A∈Rm×n 和 B∈Rn×p 為一個大小 Rn×p 的矩陣，使得：
 <br>
 
 20. **where aTr,i,bTr,i are the vector rows and ac,j,bc,j are the vector columns of A and B respectively**
 
 &#10230;
-
+其中，aTr, i, bTr, i 和 ac, j, bc, j 是列向量分別是 A 和 B 的行向量與列向量
 <br>
 
 21. **Other operations**
 
 &#10230;
-
+其他操作
 <br>
 
 22. **Transpose ― The transpose of a matrix A∈Rm×n, noted AT, is such that its entries are flipped:**
 
 &#10230;
-
+轉置 - 轉置矩陣 A∈Rm×n
 <br>
 
 23. **Remark: for matrices A,B, we have (AB)T=BTAT**
