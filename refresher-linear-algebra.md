@@ -151,13 +151,13 @@
 26. **Trace ― The trace of a square matrix A, noted tr(A), is the sum of its diagonal entries:**
 
 &#10230;
-
+跡 - 一個方陣 A 的跡，記作 tr(A)，指的是主對角線元素之合：
 <br>
 
 27. **Remark: for matrices A,B, we have tr(AT)=tr(A) and tr(AB)=tr(BA)**
 
 &#10230;
-
+注意：對於矩陣 A、B 來說，我們有 tr(AT)=tr(A) 及 tr(AB)=tr(BA)
 <br>
 
 28. **Determinant ― The determinant of a square matrix A∈Rn×n, noted |A| or det(A) is expressed recursively in terms of A∖i,∖j, which is the matrix A without its ith row and jth column, as follows:**
