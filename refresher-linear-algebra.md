@@ -139,13 +139,13 @@
 24. **Inverse ― The inverse of an invertible square matrix A is noted A−1 and is the only matrix such that:**
 
 &#10230;
-
+可逆 - 一個可逆矩陣 A 記作 A−1，並且滿足以下唯一的要求：
 <br>
 
 25. **Remark: not all square matrices are invertible. Also, for matrices A,B, we have (AB)−1=B−1A−1**
 
 &#10230;
-
+注意：並非所有的方陣都是可逆的。同樣的，對於矩陣 A、B 來說，我們有 (AB)−1=B−1A−1
 <br>
 
 26. **Trace ― The trace of a square matrix A, noted tr(A), is the sum of its diagonal entries:**
