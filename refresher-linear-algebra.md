@@ -127,13 +127,13 @@
 22. **Transpose ― The transpose of a matrix A∈Rm×n, noted AT, is such that its entries are flipped:**
 
 &#10230;
-轉置 - 轉置矩陣 A∈Rm×n
+轉置 - 一個矩陣的轉置矩陣 A∈Rm×n，記作 AT，指的是其中元素的翻轉：
 <br>
 
 23. **Remark: for matrices A,B, we have (AB)T=BTAT**
 
 &#10230;
-
+注意：對於矩陣 A、B，我們有 (AB)T=BTAT
 <br>
 
 24. **Inverse ― The inverse of an invertible square matrix A is noted A−1 and is the only matrix such that:**
