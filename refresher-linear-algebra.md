@@ -163,13 +163,13 @@
 28. **Determinant ― The determinant of a square matrix A∈Rn×n, noted |A| or det(A) is expressed recursively in terms of A∖i,∖j, which is the matrix A without its ith row and jth column, as follows:**
 
 &#10230;
-
+行列式 - 一個方陣 A∈Rn×n 的行列式，記作|A| 或 det(A)，可以透過 A∖i,∖j 來遞迴表示，它是一個沒有第 i 行和第 j 列的矩陣 A：
 <br>
 
 29. **Remark: A is invertible if and only if |A|≠0. Also, |AB|=|A||B| and |AT|=|A|.**
 
 &#10230;
-
+注意：A 是一個可逆矩陣，若且唯若 |A|≠0。同樣的，|AB|=|A||B| 且 |AT|=|A|
 <br>
 
 30. **Matrix properties**
