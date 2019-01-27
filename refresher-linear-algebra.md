@@ -175,25 +175,25 @@
 30. **Matrix properties**
 
 &#10230;
-
+矩陣的性質
 <br>
 
 31. **Definitions**
 
 &#10230;
-
+定義
 <br>
 
 32. **Symmetric decomposition ― A given matrix A can be expressed in terms of its symmetric and antisymmetric parts as follows:**
 
 &#10230;
-
+對稱分解 - 給定一個矩陣 A，它可以透過其對稱和反對稱的部分表示如下：
 <br>
 
 33. **[Symmetric, Antisymmetric]**
 
 &#10230;
-
+[對稱, 反對稱]
 <br>
 
 34. **Norm ― A norm is a function N:V⟶[0,+∞[ where V is a vector space, and such that for all x,y∈V, we have:**
