@@ -199,7 +199,7 @@
 34. **Norm ― A norm is a function N:V⟶[0,+∞[ where V is a vector space, and such that for all x,y∈V, we have:**
 
 &#10230;
-
+範數 - 範數指的是一個函式 N:V⟶[0,+∞[，其中 V 是一個向量空間，且對於所有 x,y∈V，我們有：
 <br>
 
 35. **N(ax)=|a|N(x) for a scalar**
