@@ -205,13 +205,13 @@
 35. **N(ax)=|a|N(x) for a scalar**
 
 &#10230;
-
+對一個純量來說，我們有 N(ax)=|a|N(x)
 <br>
 
 36. **if N(x)=0, then x=0**
 
 &#10230;
-
+若 N(x)=0 時，則 x=0
 <br>
 
 37. **For x∈V, the most commonly used norms are summed up in the table below:**
