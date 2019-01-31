@@ -217,13 +217,13 @@
 37. **For x∈V, the most commonly used norms are summed up in the table below:**
 
 &#10230;
-
+對於 x∈V，最常用的範數總結如下表：
 <br>
 
 38. **[Norm, Notation, Definition, Use case]**
 
 &#10230;
-
+[範數, 表示法, 定義, 使用情境]
 <br>
 
 39. **Linearly dependence ― A set of vectors is said to be linearly dependent if one of the vectors in the set can be defined as a linear combination of the others.**
