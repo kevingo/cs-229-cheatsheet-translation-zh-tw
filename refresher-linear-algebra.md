@@ -229,7 +229,7 @@
 39. **Linearly dependence ― A set of vectors is said to be linearly dependent if one of the vectors in the set can be defined as a linear combination of the others.**
 
 &#10230;
-
+線性相關 - 當集合中的一個向量可以用被定義為集合中其他向量的線性組合時，則則稱此集合的向量為線性相關
 <br>
 
 40. **Remark: if no vector can be written this way, then the vectors are said to be linearly independent**
