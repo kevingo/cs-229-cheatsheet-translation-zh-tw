@@ -253,7 +253,7 @@
 43. **Remark: similarly, a matrix A is said to be positive definite, and is noted A≻0, if it is a PSD matrix which satisfies for all non-zero vector x, xTAx>0.**
 
 &#10230;
-
+注意：同樣的，一個矩陣 A 是一個半正定矩陣 (PSD)，且滿足所有非零向量 x，xTAx>0 時，稱之為正定矩陣，記作 A≻0
 <br>
 
 44. **Eigenvalue, eigenvector ― Given a matrix A∈Rn×n, λ is said to be an eigenvalue of A if there exists a vector z∈Rn∖{0}, called eigenvector, such that we have:**
