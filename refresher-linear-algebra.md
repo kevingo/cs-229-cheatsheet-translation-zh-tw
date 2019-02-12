@@ -259,7 +259,7 @@
 44. **Eigenvalue, eigenvector ― Given a matrix A∈Rn×n, λ is said to be an eigenvalue of A if there exists a vector z∈Rn∖{0}, called eigenvector, such that we have:**
 
 &#10230;
-
+特徵值、特徵向量 - 給定一個矩陣 A∈Rn×n，當存在一個向量 z∈Rn∖{0} 時，此向量被稱為特徵向量，λ 稱之為 A 的特徵值，且滿足：
 <br>
 
 45. **Spectral theorem ― Let A∈Rn×n. If A is symmetric, then A is diagonalizable by a real orthogonal matrix U∈Rn×n. By noting Λ=diag(λ1,...,λn), we have:**
