@@ -283,7 +283,7 @@
 48. **Matrix calculus**
 
 &#10230;
-
+矩陣導數
 <br>
 
 49. **Gradient ― Let f:Rm×n→R be a function and A∈Rm×n be a matrix. The gradient of f with respect to A is a m×n matrix, noted ∇Af(A), such that:**
