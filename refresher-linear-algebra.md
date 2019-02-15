@@ -265,13 +265,13 @@
 45. **Spectral theorem ― Let A∈Rn×n. If A is symmetric, then A is diagonalizable by a real orthogonal matrix U∈Rn×n. By noting Λ=diag(λ1,...,λn), we have:**
 
 &#10230;
-
+譜分解 - 令 A∈Rn×n，如果 A 是對稱的，則 A 可以被一個實數正交矩陣 U∈Rn×n 給對角化。令 Λ=diag(λ1,...,λn)，我們得到：
 <br>
 
 46. **diagonal**
 
 &#10230;
-
+對角線
 <br>
 
 47. **Singular-value decomposition ― For a given matrix A of dimensions m×n, the singular-value decomposition (SVD) is a factorization technique that guarantees the existence of U m×m unitary, Σ m×n diagonal and V n×n unitary matrices, such that:**
