@@ -277,7 +277,7 @@
 47. **Singular-value decomposition ― For a given matrix A of dimensions m×n, the singular-value decomposition (SVD) is a factorization technique that guarantees the existence of U m×m unitary, Σ m×n diagonal and V n×n unitary matrices, such that:**
 
 &#10230;
-
+奇異值分解 - 對於給定維度為 mxn 的矩陣 A，其奇異值分解指的是一種因子分解技巧，保證存在 mxm 的單式矩陣 U、對角線矩陣 Σ m×n 和 nxn 的單式矩陣 V，滿足：
 <br>
 
 48. **Matrix calculus**
