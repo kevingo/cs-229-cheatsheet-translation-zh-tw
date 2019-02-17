@@ -289,13 +289,13 @@
 49. **Gradient ― Let f:Rm×n→R be a function and A∈Rm×n be a matrix. The gradient of f with respect to A is a m×n matrix, noted ∇Af(A), such that:**
 
 &#10230;
-
+梯度 - 令 f:Rm×n→R 是一個函式，且 A∈Rm×n 是一個矩陣。f 相對於 A 的梯度是一個 mxn 的矩陣，記作 ∇Af(A)，滿足：
 <br>
 
 50. **Remark: the gradient of f is only defined when f is a function that returns a scalar.**
 
 &#10230;
-
+注意：f 的梯度僅在 f 為一個函數且該函數回傳一個純量時有效
 <br>
 
 51. **Hessian ― Let f:Rn→R be a function and x∈Rn be a vector. The hessian of f with respect to x is a n×n symmetric matrix, noted ∇2xf(x), such that:**
