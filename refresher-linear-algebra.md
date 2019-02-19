@@ -301,13 +301,13 @@
 51. **Hessian ― Let f:Rn→R be a function and x∈Rn be a vector. The hessian of f with respect to x is a n×n symmetric matrix, noted ∇2xf(x), such that:**
 
 &#10230;
-
+海森 - 令 f:Rn→R 是一個函式，且 x∈Rn 是一個向量，則一個 f 的海森對於向量 x 是一個 nxn 的對稱矩陣，記作 ∇2xf(x)，滿足：
 <br>
 
 52. **Remark: the hessian of f is only defined when f is a function that returns a scalar**
 
 &#10230;
-
+注意：f 的海森僅在 f 為一個函數且該函數回傳一個純量時有效
 <br>
 
 53. **Gradient operations ― For matrices A,B,C, the following gradient properties are worth having in mind:**
