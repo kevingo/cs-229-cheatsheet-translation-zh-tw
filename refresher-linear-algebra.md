@@ -311,5 +311,5 @@
 <br>
 
 53. **Gradient operations ― For matrices A,B,C, the following gradient properties are worth having in mind:**
-
+梯度運算 - 對於矩陣 A、B、C，下列的梯度性質值得牢牢記住：
 &#10230;
