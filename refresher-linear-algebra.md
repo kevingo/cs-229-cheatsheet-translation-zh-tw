@@ -317,21 +317,22 @@
 54. **[General notations, Definitions, Main matrices]**
 
 &#10230;
-
+[通用符號, 定義, 主要矩陣]
 <br>
 
 55. **[Matrix operations, Multiplication, Other operations]**
 
 &#10230;
-
+[矩陣運算, 矩陣乘法, 其他運算]
 <br>
 
 56. **[Matrix properties, Norm, Eigenvalue/Eigenvector, Singular-value decomposition]**
 
 &#10230;
-
+[矩陣性質, 範數, 特徵值/特徵向量, 奇異值分解]
 <br>
 
 57. **[Matrix calculus, Gradient, Hessian, Operations]**
 
 &#10230;
+[矩陣導數, 梯度, 海森, 運算]
