@@ -19,13 +19,13 @@
 4. **Confusion matrix ― The confusion matrix is used to have a more complete picture when assessing the performance of a model. It is defined as follows:**
 
 &#10230;
-混淆矩陣 - 混淆矩陣是用來衡量模型整體表現的指標
+混淆矩陣 - 混淆矩陣是用來衡量模型全面表現的指標
 <br>
 
 5. **[Predicted class, Actual class]**
 
 &#10230;
-[預測類別, 真實類別]
+[預測類別, 實際類別]
 <br>
 
 6. **Main metrics ― The following metrics are commonly used to assess the performance of classification models:**
@@ -49,7 +49,7 @@
 9. **How accurate the positive predictions are**
 
 &#10230;
-預測的類別有多精準的比例
+預測為正的精準度
 <br>
 
 10. **Coverage of actual positive sample**
@@ -103,13 +103,13 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 18. **[Total sum of squares, Explained sum of squares, Residual sum of squares]**
 
 &#10230;
-[總平方和, 被解釋平方和, 殘差平方和]
+[總平方和, 解釋平方和, 殘差平方和]
 <br>
 
 19. **Coefficient of determination ― The coefficient of determination, often noted R2 or r2, provides a measure of how well the observed outcomes are replicated by the model and is defined as follows:**
 
 &#10230;
-決定係數 - 決定係數又被稱為 R2 or r2，它提供了模型是否具備復現觀測結果的能力。定義如下：
+決定係數 - 決定係數又被稱為 R2 or r2，它提供了模型復現觀測結果的能力。定義如下：
 <br>
 
 20. **Main metrics ― The following metrics are commonly used to assess the performance of regression models, by taking into account the number of variables n that they take into consideration:**
@@ -121,7 +121,7 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 21. **where L is the likelihood and ˆσ2 is an estimate of the variance associated with each response.**
 
 &#10230;
-當中，L 代表的是概似估計，ˆσ2 則是變異數的估計
+當中，L 代表的是似然度，ˆσ2 則是變異數的估計
 <br>
 
 22. **Model selection**
@@ -187,13 +187,13 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 32. **The most commonly used method is called k-fold cross-validation and splits the training data into k folds to validate the model on one fold while training the model on the k−1 other folds, all of this k times. The error is then averaged over the k folds and is named cross-validation error.**
 
 &#10230;
-最常用到的方法叫做 k-fold 交叉驗證。它將訓練資料切成 k 份，在 k-1 份資料上進行訓練，而剩下的一份用來評估模型的效能，這樣的流程會重複 k 次次。最後計算出來的模型損失是 k 次結果的平均，又稱為交叉驗證損失值。
+最常用到的方法叫做 k-fold 交叉驗證。它將訓練資料切成 k 份，在 k-1 份資料上進行訓練，而剩下的一份用來評估模型的效能，這樣的流程會重複 k 次次。最後計算出來的模型誤差是 k 次結果的平均，又稱為交叉驗證損失值。
 <br>
 
 33. **Regularization ― The regularization procedure aims at avoiding the model to overfit the data and thus deals with high variance issues. The following table sums up the different types of commonly used regularization techniques:**
 
 &#10230;
-正規化 - 正歸化的目的是為了避免模型對於訓練資料過擬合，進而導致高方差。底下的表格整理了常見的正規化技巧：
+正規化 - 正規化的目的是為了避免模型對於訓練資料過擬合，進而導致高變異。底下的表格整理了常見的正規化技巧：
 <br>
 
 34. **[Shrinks coefficients to 0, Good for variable selection, Makes coefficients smaller, Tradeoff between variable selection and small coefficients]**
@@ -235,19 +235,19 @@ AUC - 在接收者操作特徵曲線 (ROC) 底下的面積，也稱為 AUC 或 A
 40. **[High training error, Training error close to test error, High bias, Training error slightly lower than test error, Very low training error, Training error much lower than test error, High variance]**
 
 &#10230;
-[訓練錯誤較高, 訓練錯誤和測試錯誤接近, 高偏差, 訓練誤差會稍微比測試誤差低, 訓練誤差很低, 訓練誤差比測試誤差低很多, 高變異]
+[訓練誤差較高, 訓練誤差和測試誤差接近, 高偏差, 訓練誤差會稍微比測試誤差低, 訓練誤差很低, 訓練誤差比測試誤差低很多, 高變異]
 <br>
 
 41. **[Complexify model, Add more features, Train longer, Perform regularization, Get more data]**
 
 &#10230;
-[使用較複雜的模型, 增加更多特徵, 訓練更久, 採用正規化化的方法, 取得更多資料]
+[使用較複雜的模型, 增加更多特徵, 訓練更久, 採用正規化的方法, 取得更多資料]
 <br>
 
 42. **Error analysis ― Error analysis is analyzing the root cause of the difference in performance between the current and the perfect models.**
 
 &#10230;
-誤差分析 - 誤差分析指的是分析目前使用的模型和最佳模型之間差距的根本原因
+誤差分析 - 誤差分析指的是分析目前使用的模型和理想模型之間差距的根本原因
 <br>
 
 43. **Ablative analysis ― Ablative analysis is analyzing the root cause of the difference in performance between the current and the baseline models.**
