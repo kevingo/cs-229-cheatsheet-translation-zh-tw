@@ -5,70 +5,70 @@
 **1. Deep Learning Tips and Tricks cheatsheet**
 
 &#10230;
-
+深度學習秘訣和技巧參考手冊
 <br>
 
 
 **2. CS 230 - Deep Learning**
 
 &#10230;
-
+CS 230 - 深度學習
 <br>
 
 
 **3. Tips and tricks**
 
 &#10230;
-
+秘訣和技巧
 <br>
 
 
 **4. [Data processing, Data augmentation, Batch normalization]**
 
 &#10230;
-
+[資料處理, 資料擴增, 批次正規化]
 <br>
 
 
 **5. [Training a neural network, Epoch, Mini-batch, Cross-entropy loss, Backpropagation, Gradient descent, Updating weights, Gradient checking]**
 
 &#10230;
-
+[訓練一個神經網路, 週期 (epoch), 小批次 (mini-batch), 交叉熵損失, 反向傳播演算法, 梯度下降法, 更新權重, 梯度檢查]
 <br>
 
 
 **6. [Parameter tuning, Xavier initialization, Transfer learning, Learning rate, Adaptive learning rates]**
 
 &#10230;
-
+[調整參數, Xavier 初始化, 遷移學習, 學習率, 自適應學習率]
 <br>
 
 
 **7. [Regularization, Dropout, Weight regularization, Early stopping]**
 
 &#10230;
-
+[正規化, Dropout, 權重正規化, Early stopping]
 <br>
 
 
 **8. [Good practices, Overfitting small batch, Gradient checking]**
 
 &#10230;
-
+[良好的實踐, 在小批量的資料上過擬合, 確認梯度]
 <br>
 
 
 **9. View PDF version on GitHub**
 
 &#10230;
-
+在 Github 上檢視 PDF 版本
 <br>
 
 
 **10. Data processing**
 
 &#10230;
-
+資料處理
 <br>
 
 
