@@ -75,42 +75,42 @@ CS 230 - 深度學習
 **11. Data augmentation ― Deep learning models usually need a lot of data to be properly trained. It is often useful to get more data from the existing ones using data augmentation techniques. The main ones are summed up in the table below. More precisely, given the following input image, here are the techniques that we can apply:**
 
 &#10230;
-
+資料擴增 - 深度學習模型通常需要大量的資料進行訓練。將既有的訓練資料透過資料擴增技術來取得更多的資料通常很有用。下表中總結了主要的技術，更精確的說，給定一張原始圖片，我們可以應用的技術如下：
 <br>
 
 
 **12. [Original, Flip, Rotation, Random crop]**
 
 &#10230;
-
+[原始圖片, 翻轉, 旋轉, 隨機裁切]
 <br>
 
 
 **13. [Image without any modification, Flipped with respect to an axis for which the meaning of the image is preserved, Rotation with a slight angle, Simulates incorrect horizon calibration, Random focus on one part of the image, Several random crops can be done in a row]**
 
 &#10230;
-
+[沒有進行任何修改的原始圖片, 僅對於軸進行翻轉，保留圖片原始資訊, 僅行些微的角度旋轉, 模擬不正確的水平校正, 隨機關注圖片的某個部份, 可以對某行連續進行隨機裁切]
 <br>
 
 
 **14. [Color shift, Noise addition, Information loss, Contrast change]**
 
 &#10230;
-
+[色彩偏移, 加入雜訊, 丟失資訊, 改變對比]
 <br>
 
 
 **15. [Nuances of RGB is slightly changed, Captures noise that can occur with light exposure, Addition of noise, More tolerance to quality variation of inputs, Parts of image ignored, Mimics potential loss of parts of image, Luminosity changes, Controls difference in exposition due to time of day]**
 
 &#10230;
-
+[RGB 色彩的些微改變, 捕捉曝光時可能的雜訊, 加入雜訊, 對於輸入圖片有更高的容忍度, 忽略局部的圖片, 模仿圖片部分的資訊丟失, 改變亮度, 控制在一天中不同時間造成的曝光差異]
 <br>
 
 
 **16. Remark: data is usually augmented on the fly during training.**
 
 &#10230;
-
+注意：資料通常是在模型訓練階段即時進行
 <br>
 
 
