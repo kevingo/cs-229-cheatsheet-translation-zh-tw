@@ -117,28 +117,28 @@ CS 230 - 深度學習
 **17. Batch normalization ― It is a step of hyperparameter γ,β that normalizes the batch {xi}. By noting μB,σ2B the mean and variance of that we want to correct to the batch, it is done as follows:**
 
 &#10230;
-
+批次正規化 - 它是一個藉由 γ,β 兩個超參數來正規化每個批次 {xi} 的過程。每一次正規化的過程，我們使用 μB,σ2B 分別代表平均數和變異數。請參考以下公式：
 <br>
 
 
 **18. It is usually done after a fully connected/convolutional layer and before a non-linearity layer and aims at allowing higher learning rates and reducing the strong dependence on initialization.**
 
 &#10230;
-
+批次正規化的動作通常在全連接層/卷積層之後、在非線性層之前進行。目的在於接納更高的學習速率，並且減少該批次學習初期對取樣資料特徵的依賴性。
 <br>
 
 
 **19. Training a neural network**
 
 &#10230;
-
+訓練一個神經網路
 <br>
 
 
 **20. Definitions**
 
 &#10230;
-
+定義
 <br>
 
 
