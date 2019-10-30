@@ -145,56 +145,55 @@ CS 230 - 深度學習
 **21. Epoch ― In the context of training a model, epoch is a term used to refer to one iteration where the model sees the whole training set to update its weights.**
 
 &#10230;
-
+(週期) Epoch - 在訓練模型時，當模型看過整個訓練資料集一次，並且更新對應的模型權重稱之為一個週期 (epoch)
 <br>
-
 
 **22. Mini-batch gradient descent ― During the training phase, updating weights is usually not based on the whole training set at once due to computation complexities or one data point due to noise issues. Instead, the update step is done on mini-batches, where the number of data points in a batch is a hyperparameter that we can tune.**
 
 &#10230;
-
+小批次 (mini-batch) 梯度下降 - 在訓練階段，通常不會使用整個訓練資料集來更新權重，因為需要耗費太多計算資源，也不會使用單一資料點，因為單一資料有可能會有雜訊。我們會使用一個小批次的資料來更新權重，而要選取多少資料當成一個小批次，則是可以透過超參數來進行調整。
 <br>
 
 
 **23. Loss function ― In order to quantify how a given model performs, the loss function L is usually used to evaluate to what extent the actual outputs y are correctly predicted by the model outputs z.**
 
 &#10230;
-
+損失函數 - 為了量化模型的表現，損失函數 L 通常用來計算預測值 z 和實際值 y 之間的差距量
 <br>
 
 
 **24. Cross-entropy loss ― In the context of binary classification in neural networks, the cross-entropy loss L(z,y) is commonly used and is defined as follows:**
 
 &#10230;
-
+交叉熵損失函數 - 在二元分類的情境中，交叉熵損失函數 L(z,y) 經常被使用，定義如下：
 <br>
 
 
 **25. Finding optimal weights**
 
 &#10230;
-
+尋找最佳權重
 <br>
 
 
 **26. Backpropagation ― Backpropagation is a method to update the weights in the neural network by taking into account the actual output and the desired output. The derivative with respect to each weight w is computed using the chain rule.**
 
 &#10230;
-
+反向傳播演算法 - 反向傳播演算法是一種在神經網路中用來更新權重的方法，更新的基準是根據神經網路的實際輸出值和期望輸出值之間的關係。權重的導數是根據連鎖律 (chain rule) 來計算。
 <br>
 
 
 **27. Using this method, each weight is updated with the rule:**
 
 &#10230;
-
+透過這種方法，每一個權重更新的方式如下：
 <br>
 
 
 **28. Updating weights ― In a neural network, weights are updated as follows:**
 
 &#10230;
-
+更新權重 - 在神經網路中，權重更新的步驟如下：
 <br>
 
 
