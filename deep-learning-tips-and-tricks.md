@@ -200,56 +200,56 @@ CS 230 - 深度學習
 **29. [Step 1: Take a batch of training data and perform forward propagation to compute the loss, Step 2: Backpropagate the loss to get the gradient of the loss with respect to each weight, Step 3: Use the gradients to update the weights of the network.]**
 
 &#10230;
-
+[步驟一：取出一個批次 (batch) 的資料，執行前向傳播演算法 (forward propagation) 來得到對應的損失值。步驟二：將損失值透過反向傳播演算法來得到梯度。步驟三：使用梯度來更新網路的權重]
 <br>
 
 
 **30. [Forward propagation, Backpropagation, Weights update]**
 
 &#10230;
-
+[前向傳播演算法, 反向傳播演算法, 權重更新]
 <br>
 
 
 **31. Parameter tuning**
 
 &#10230;
-
+調整參數
 <br>
 
 
 **32. Weights initialization**
 
 &#10230;
-
+初始化參數
 <br>
 
 
 **33. Xavier initialization ― Instead of initializing the weights in a purely random manner, Xavier initialization enables to have initial weights that take into account characteristics that are unique to the architecture.**
 
 &#10230;
-
+Xavier 初始化 - Xavier 初始化可以考慮網路架構獨特的特性，而不是純粹以隨機的方式來進行權重的初始化。
 <br>
 
 
 **34. Transfer learning ― Training a deep learning model requires a lot of data and more importantly a lot of time. It is often useful to take advantage of pre-trained weights on huge datasets that took days/weeks to train, and leverage it towards our use case. Depending on how much data we have at hand, here are the different ways to leverage this:**
 
 &#10230;
-
+遷移學習 - 訓練一個神經網路模型需要大量的資料和時間。在大多的情況下，如果可以在需要訓練數天/週的龐大資料集上使用預訓練好的參數，並將其運用在我們自身的案例上時，是很有用的。根據我們手上有多少資料，有以下幾種方法：
 <br>
 
 
 **35. [Training size, Illustration, Explanation]**
 
 &#10230;
-
+[訓練資料大小, 圖示, 解釋]
 <br>
 
 
 **36. [Small, Medium, Large]**
 
 &#10230;
-
+[小, 中, 大]
 <br>
 
 
