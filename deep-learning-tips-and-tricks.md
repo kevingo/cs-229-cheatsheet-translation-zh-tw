@@ -256,7 +256,7 @@ Xavier 初始化 - Xavier 初始化可以考慮網路架構獨特的特性，而
 **37. [Freezes all layers, trains weights on softmax, Freezes most layers, trains weights on last layers and softmax, Trains weights on layers and softmax by initializing weights on pre-trained ones]**
 
 &#10230;
-
+[凍結所有層, 透過 softmax 來訓練權重, 凍結大多層, 透過最後一層和 softmax 來訓練權重, 透過所有的層和 softmax，在預先訓練好的權重上進行訓練]
 <br>
 
 
