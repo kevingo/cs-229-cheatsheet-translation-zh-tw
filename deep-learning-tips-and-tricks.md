@@ -263,29 +263,28 @@ Xavier 初始化 - Xavier 初始化可以考慮網路架構獨特的特性，而
 **38. Optimizing convergence**
 
 &#10230;
-
+最佳化收斂
 <br>
 
 
-**39. Learning rate ― The learning rate, often noted α or sometimes η, indicates at which pace the weights get updated. It can be fixed or adaptively changed. The current most popular method is called Adam, which is a method that adapts the learning rate.
-**
+**39. Learning rate ― The learning rate, often noted α or sometimes η, indicates at which pace the weights get updated. It can be fixed or adaptively changed. The current most popular method is called Adam, which is a method that adapts the learning rate.**
 
 &#10230;
-
+學習速率 - 學習速率通常用 α 或 η 來表示，目的是用來控制權重更新的速度。學習速度可以是一個固定值，或是隨著訓練的過程改變。現在最熱門的最佳化方法叫作 Adam，是一種隨著訓練過程改變學習速率的最佳化方法。
 <br>
 
 
 **40. Adaptive learning rates ― Letting the learning rate vary when training a model can reduce the training time and improve the numerical optimal solution. While Adam optimizer is the most commonly used technique, others can also be useful. They are summed up in the table below:**
 
 &#10230;
-
+動態調整學習速率 - 訓練模型時，讓學習速率進行變化可以減少訓練時間，同時改善數值最佳解。儘管 Adam 是最常使用的優化器，但其他的方法也可能有用。這些方法匯總如下：
 <br>
 
 
 **41. [Method, Explanation, Update of w, Update of b]**
 
 &#10230;
-
+[方法, 解釋, 更新 w, 更新 b]
 <br>
 
 
