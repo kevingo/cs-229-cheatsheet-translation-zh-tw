@@ -291,21 +291,21 @@ Xavier 初始化 - Xavier 初始化可以考慮網路架構獨特的特性，而
 **42. [Momentum, Dampens oscillations, Improvement to SGD, 2 parameters to tune]**
 
 &#10230;
-
+[動量, 阻尼振盪, SGD 的改善, 有兩個參數要調整]
 <br>
 
 
 **43. [RMSprop, Root Mean Square propagation, Speeds up learning algorithm by controlling oscillations]**
 
 &#10230;
-
+[RMSprop, 均方根傳播, 透過控制震盪來加快學習演算法]
 <br>
 
 
 **44. [Adam, Adaptive Moment estimation, Most popular method, 4 parameters to tune]**
 
 &#10230;
-
+[Adam, 自適應估計, 最熱門的方法, 有四個參數要調整]
 <br>
 
 
