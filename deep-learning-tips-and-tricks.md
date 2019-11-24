@@ -312,7 +312,7 @@ Xavier 初始化 - Xavier 初始化可以考慮網路架構獨特的特性，而
 **45. Remark: other methods include Adadelta, Adagrad and SGD.**
 
 &#10230;
-
+注意：其他的方法還有 Adadelta、Adagrad 和 SGD。
 <br>
 
 
